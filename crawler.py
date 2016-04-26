@@ -16,9 +16,9 @@ def crawl(characters):
         characters: list of characters to search in square's database
 
     Returns:
-        A two item tuple of output formatted strings and total number of meds
+        The total number of meds
     """
-    output = "Square Pharmaceuticals Ltd.\n"
+    print("Square Pharmaceuticals Ltd.")
     total = 0
 
     # Create an object of file
@@ -32,16 +32,15 @@ def crawl(characters):
         # make the medicines object
         file_obj.write('"medicines": [')
 
-        output += """
-        Company \t Brand Name \t Group
-        ======================================"""
+        print("""Company \t Brand Name \t\t\t Group
+=====================================================""")
 
         url = "http://squarepharma.com.bd/products-by-tradename.php?type=trade&char="
         for character in characters:
-            url += character
+            link = url + character
 
             # Get the requested URL
-            req = http_get(url)
+            req = http_get(link)
 
             # Passing the requested content to Beautiful Soup
             soup = BeautifulSoup(req.content, 'html.parser')
@@ -55,20 +54,18 @@ def crawl(characters):
                 med_name = item.contents[2].text
                 med_group = item.contents[4].text
 
-                output_line = "Square \t " + med_name + " \t " + med_group
-                output += output_line
+                print("Square \t {} \t\t\t {}".format(med_name, med_group))
 
                 #write meds to json
                 file_obj.write('''{
                         "trade_name": "%s",
                         "group_name": "%s"
-                    },''' % (med_name.encode('utf-8'), med_group.encode('utf-8')))
+                    },''' % (med_name, med_group))
 
-        file_obj.write(']}')
-    return (output, total)
+        file_obj.write('{}]}')
+    return total
 
 
 if __name__ == "__main__":
-    (CRAWL_RESULT, COUNT) = crawl(list(alphabet))
-    print(CRAWL_RESULT)
+    COUNT = crawl(list(alphabet))
     print("Total number of meds:", COUNT)
