@@ -15,17 +15,30 @@ def main():
     options = ["Square"]
     indicator = '>>>'
     option, _ = pick(options, title, indicator=indicator)
+    count = 0
     if re.search('Square', option):
         from parsers.square_pharma import square_parser as company_parser
-        print('Data from "Square" will be recoded to "square_pharma.json".')
-        print('Please wait.')
-        count = download_data(
-            file_name = 'square_pharma',
-            company = 'Square Pharmaceuticals Ltd.',
-            link_modifiers = list(alphabet),
-            website = 'http://squarepharma.com.bd',
-            parser = company_parser)
-        print('Downloaded {0:d} records from {1!s}'.format(count, option))
+        company_file = 'square_pharma'
+        company_name = 'Square Pharmaceuticals Ltd.'
+        company_site = 'http://squarepharma.com.bd'
+        site_iterables = list(alphabet)
+    elif re.search('Incepta', option):
+        from parsers.square_pharma import square_parser as company_parser
+        company_file = 'incepta_pharma'
+        company_name = 'Incepta Pharmaceuticals Ltd.'
+        company_site = 'http://inceptapharma.com'
+        site_iterables = '' # incepta puts everything on one page
+    elif re.search('ACME', option):
+        # TODO: doing that in the next commit
+        
+    print('Please wait.')
+    print('Data from "{0!s}" will be recoded to "{1!s}.json".'.format(
+        option, company_file))
+    
+    count = download_data(
+        company_file, company_name, site_iterables, company_site,company_parser)
+    
+    print('Downloaded {0:d} records from {1!s}'.format(count, option))
 
 
 def download_data(
@@ -33,11 +46,11 @@ def download_data(
     company = 'Square Pharmaceuticals Ltd.',
     link_modifiers = list(alphabet),
     website = 'http://squarepharma.com.bd',
-    parser=None
+    parser = None
     ):
     """Download and store pharmaceutical data from a provider using given parser
     """
-    with open('{!s}.json'.format(file_name), "w") as file_obj:
+    with open('output_data/{!s}.json'.format(file_name), "w") as file_obj:
 
         (company_meds, total) = parser(link_modifiers)
         company = {
