@@ -2,7 +2,6 @@
 Parser for square pharmaceuticals
 """
 from bs4 import BeautifulSoup
-from urllib.parse import urlparse
 import requests
 
 
