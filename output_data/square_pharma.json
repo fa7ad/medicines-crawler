@@ -1,1903 +1,1903 @@
 {
-    "company": "Square Pharmaceuticals Ltd.",
+    "medicine_count": 474,
     "website": "http://squarepharma.com.bd",
+    "company": "Square Pharmaceuticals Ltd.",
     "medicines": [
         {
-            "group_name": "Paracetamol & Caffeine",
-            "trade_name": "Ace Plus\u00ae"
+            "trade_name": "Ace Plus\u00ae",
+            "group_name": "Paracetamol & Caffeine"
         },
         {
-            "group_name": "Paracetamol",
-            "trade_name": "Ace XR\u00ae"
+            "trade_name": "Ace XR\u00ae",
+            "group_name": "Paracetamol"
         },
         {
-            "group_name": "Paracetamol",
-            "trade_name": "Ace\u00ae"
+            "trade_name": "Ace\u00ae",
+            "group_name": "Paracetamol"
         },
         {
-            "group_name": "Paracetamol+Tramadol",
-            "trade_name": "Acetram\u00ae"
+            "trade_name": "Acetram\u00ae",
+            "group_name": "Paracetamol+Tramadol"
         },
         {
-            "group_name": "Adhatoda vasica",
-            "trade_name": "Adovas\u00ae"
+            "trade_name": "Adovas\u00ae",
+            "group_name": "Adhatoda vasica"
         },
         {
-            "group_name": "Diphenhydramine HCl",
-            "trade_name": "Adryl\u00ae"
+            "trade_name": "Adryl\u00ae",
+            "group_name": "Diphenhydramine HCl"
         },
         {
-            "group_name": "Clotrimazole",
-            "trade_name": "Afun\u00ae"
+            "trade_name": "Afun\u00ae",
+            "group_name": "Clotrimazole"
         },
         {
-            "group_name": "Clotrimazole",
-            "trade_name": "Afun\u00ae VT"
+            "trade_name": "Afun\u00ae VT",
+            "group_name": "Clotrimazole"
         },
         {
-            "group_name": "Mancozeb",
-            "trade_name": "Agrizeb\u00ae"
+            "trade_name": "Agrizeb\u00ae",
+            "group_name": "Mancozeb"
         },
         {
-            "group_name": "Antiallergic",
-            "trade_name": "Alacot\u00ae DS Eye Drops"
+            "trade_name": "Alacot\u00ae DS Eye Drops",
+            "group_name": "Antiallergic"
         },
         {
-            "group_name": "Olopatadine HCl",
-            "trade_name": "Alacot\u00ae Eye Drops"
+            "trade_name": "Alacot\u00ae Eye Drops",
+            "group_name": "Olopatadine HCl"
         },
         {
-            "group_name": "Ketotifen Fumarate",
-            "trade_name": "Alarid\u00ae Eye Drops"
+            "trade_name": "Alarid\u00ae Eye Drops",
+            "group_name": "Ketotifen Fumarate"
         },
         {
-            "group_name": "Cetirizine HCl",
-            "trade_name": "Alatrol\u00ae"
+            "trade_name": "Alatrol\u00ae",
+            "group_name": "Cetirizine HCl"
         },
         {
-            "group_name": "Albendazole",
-            "trade_name": "Almex\u00ae"
+            "trade_name": "Almex\u00ae",
+            "group_name": "Albendazole"
         },
         {
-            "group_name": "Ambrisentan",
-            "trade_name": "AmbrisanTM 5"
+            "trade_name": "AmbrisanTM 5",
+            "group_name": "Ambrisentan"
         },
         {
-            "group_name": "Ambroxol",
-            "trade_name": "Ambrox\u00ae"
+            "trade_name": "Ambrox\u00ae",
+            "group_name": "Ambroxol"
         },
         {
-            "group_name": "Amlaki rashayan",
-            "trade_name": "AmCivit\u00ae"
+            "trade_name": "AmCivit\u00ae",
+            "group_name": "Amlaki rashayan"
         },
         {
-            "group_name": "Amikacin Sulfate USP",
-            "trade_name": "AmistarTM IM/IV Injection"
+            "trade_name": "AmistarTM IM/IV Injection",
+            "group_name": "Amikacin Sulfate USP"
         },
         {
-            "group_name": "Kutjarist",
-            "trade_name": "AmocidTM"
+            "trade_name": "AmocidTM",
+            "group_name": "Kutjarist"
         },
         {
-            "group_name": "Metronidazole",
-            "trade_name": "Amodis IV Infusion\u00ae"
+            "trade_name": "Amodis IV Infusion\u00ae",
+            "group_name": "Metronidazole"
         },
         {
-            "group_name": "Metronidazole",
-            "trade_name": "Amodis\u00ae"
+            "trade_name": "Amodis\u00ae",
+            "group_name": "Metronidazole"
         },
         {
-            "group_name": "Tramadol HCl",
-            "trade_name": "Anadol\u00ae"
+            "trade_name": "Anadol\u00ae",
+            "group_name": "Tramadol HCl"
         },
         {
-            "group_name": "Clopidogrel + Aspirin",
-            "trade_name": "Anclog Plus\u00ae"
+            "trade_name": "Anclog Plus\u00ae",
+            "group_name": "Clopidogrel + Aspirin"
         },
         {
-            "group_name": "Clopidogrel",
-            "trade_name": "Anclog\u00ae"
+            "trade_name": "Anclog\u00ae",
+            "group_name": "Clopidogrel"
         },
         {
-            "group_name": "Bupivacaine HCl+Dextrose",
-            "trade_name": "Anespine\u00ae"
+            "trade_name": "Anespine\u00ae",
+            "group_name": "Bupivacaine HCl+Dextrose"
         },
         {
-            "group_name": "Losartan Potassium",
-            "trade_name": "Angilock\u00ae"
+            "trade_name": "Angilock\u00ae",
+            "group_name": "Losartan Potassium"
         },
         {
-            "group_name": "Losartan Potassium + Hydrochlorthiazide",
-            "trade_name": "Angilock\u00ae plus"
+            "trade_name": "Angilock\u00ae plus",
+            "group_name": "Losartan Potassium + Hydrochlorthiazide"
         },
         {
-            "group_name": "Trimetazidine HCl",
-            "trade_name": "Angivent MR\u00ae"
+            "trade_name": "Angivent MR\u00ae",
+            "group_name": "Trimetazidine HCl"
         },
         {
-            "group_name": "Carbamazepine",
-            "trade_name": "Anleptic\u00ae"
+            "trade_name": "Anleptic\u00ae",
+            "group_name": "Carbamazepine"
         },
         {
-            "group_name": "Oxazepam",
-            "trade_name": "Anoxa 10\u00ae"
+            "trade_name": "Anoxa 10\u00ae",
+            "group_name": "Oxazepam"
         },
         {
-            "group_name": "Nitroglycerin",
-            "trade_name": "Anril 0.5\u00ae"
+            "trade_name": "Anril 0.5\u00ae",
+            "group_name": "Nitroglycerin"
         },
         {
-            "group_name": "Nitroglycerin",
-            "trade_name": "Anril Injection\u00ae"
+            "trade_name": "Anril Injection\u00ae",
+            "group_name": "Nitroglycerin"
         },
         {
-            "group_name": "Nitroglycerin",
-            "trade_name": "Anril spray\u00ae"
+            "trade_name": "Anril spray\u00ae",
+            "group_name": "Nitroglycerin"
         },
         {
-            "group_name": "Nitroglycerin",
-            "trade_name": "Anril SR\u00ae"
+            "trade_name": "Anril SR\u00ae",
+            "group_name": "Nitroglycerin"
         },
         {
-            "group_name": "Insulin Human (rDNA)",
-            "trade_name": "Ansulin\u00ae Pen Cartridge"
+            "trade_name": "Ansulin\u00ae Pen Cartridge",
+            "group_name": "Insulin Human (rDNA)"
         },
         {
-            "group_name": "Insulin Human (rDNA)",
-            "trade_name": "Ansulin\u00ae Vial"
+            "trade_name": "Ansulin\u00ae Vial",
+            "group_name": "Insulin Human (rDNA)"
         },
         {
-            "group_name": "Reusable Insulin Pen",
-            "trade_name": "AnsuPen\u00ae"
+            "trade_name": "AnsuPen\u00ae",
+            "group_name": "Reusable Insulin Pen"
         },
         {
-            "group_name": "Sodium Cromoglicate + Xylometazoline HCl",
-            "trade_name": "Antazol Plus\u00ae"
+            "trade_name": "Antazol Plus\u00ae",
+            "group_name": "Sodium Cromoglicate + Xylometazoline HCl"
         },
         {
-            "group_name": "Xylometazoline HCl",
-            "trade_name": "Antazol\u00ae"
+            "trade_name": "Antazol\u00ae",
+            "group_name": "Xylometazoline HCl"
         },
         {
-            "group_name": "Chlorpheniramine maleate BP",
-            "trade_name": "Antista\u00ae"
+            "trade_name": "Antista\u00ae",
+            "group_name": "Chlorpheniramine maleate BP"
         },
         {
-            "group_name": "Adefovir Dipivoxil ",
-            "trade_name": "Antiva\u00ae"
+            "trade_name": "Antiva\u00ae",
+            "group_name": "Adefovir Dipivoxil "
         },
         {
-            "group_name": "Atorvastatin",
-            "trade_name": "Anzitor\u00ae"
+            "trade_name": "Anzitor\u00ae",
+            "group_name": "Atorvastatin"
         },
         {
-            "group_name": "Amlexanox",
-            "trade_name": "Apsol\u00ae"
+            "trade_name": "Apsol\u00ae",
+            "group_name": "Amlexanox"
         },
         {
-            "group_name": "Aripiprazole",
-            "trade_name": "AriprexTM"
+            "trade_name": "AriprexTM",
+            "group_name": "Aripiprazole"
         },
         {
-            "group_name": "Carbonyl enriched herbal hematinic",
-            "trade_name": "Arubin\u00ae"
+            "trade_name": "Arubin\u00ae",
+            "group_name": "Carbonyl enriched herbal hematinic"
         },
         {
-            "group_name": "Sodium Alginate + Potassium Bicarbonate",
-            "trade_name": "AsyntaTM"
+            "trade_name": "AsyntaTM",
+            "group_name": "Sodium Alginate + Potassium Bicarbonate"
         },
         {
-            "group_name": "Aztreonam",
-            "trade_name": "Atreon\u00ae"
+            "trade_name": "Atreon\u00ae",
+            "group_name": "Aztreonam"
         },
         {
-            "group_name": "Oseltamivir phosphate",
-            "trade_name": "Aviflu\u00ae"
+            "trade_name": "Aviflu\u00ae",
+            "group_name": "Oseltamivir phosphate"
         },
         {
-            "group_name": "Vitamin B Complex",
-            "trade_name": "B-50 Forte\u00ae"
+            "trade_name": "B-50 Forte\u00ae",
+            "group_name": "Vitamin B Complex"
         },
         {
-            "group_name": "Mupirocin",
-            "trade_name": "Bactrocin\u00ae"
+            "trade_name": "Bactrocin\u00ae",
+            "group_name": "Mupirocin"
         },
         {
-            "group_name": "Febuxostat",
-            "trade_name": "Barif\u00ae"
+            "trade_name": "Barif\u00ae",
+            "group_name": "Febuxostat"
         },
         {
-            "group_name": "Beclometasone Dipropionate",
-            "trade_name": "Beclomin\u00ae"
+            "trade_name": "Beclomin\u00ae",
+            "group_name": "Beclometasone Dipropionate"
         },
         {
-            "group_name": "Beclomethasone dipropionate",
-            "trade_name": "Becospray\u00ae"
+            "trade_name": "Becospray\u00ae",
+            "group_name": "Beclomethasone dipropionate"
         },
         {
-            "group_name": "Benzathine Penicillin",
-            "trade_name": "Benzapen\u00ae"
+            "trade_name": "Benzapen\u00ae",
+            "group_name": "Benzathine Penicillin"
         },
         {
-            "group_name": "Thiamine HCl",
-            "trade_name": "Beovit\u00ae"
+            "trade_name": "Beovit\u00ae",
+            "group_name": "Thiamine HCl"
         },
         {
-            "group_name": "Betamethasone+ Neomycin",
-            "trade_name": "Betameson-N\u00ae"
+            "trade_name": "Betameson-N\u00ae",
+            "group_name": "Betamethasone+ Neomycin"
         },
         {
-            "group_name": "Iron Polymaltose + Thiamine + Riboflavin + Nicotinamide...",
-            "trade_name": "Bicozin-I\u00ae"
+            "trade_name": "Bicozin-I\u00ae",
+            "group_name": "Iron Polymaltose + Thiamine + Riboflavin + Nicotinamide..."
         },
         {
-            "group_name": "Vitamin B Complex and Zinc",
-            "trade_name": "Bicozin\u00ae"
+            "trade_name": "Bicozin\u00ae",
+            "group_name": "Vitamin B Complex and Zinc"
         },
         {
-            "group_name": "Bisoprolol Fumarate",
-            "trade_name": "Bisocor\u00ae"
+            "trade_name": "Bisocor\u00ae",
+            "group_name": "Bisoprolol Fumarate"
         },
         {
-            "group_name": "Bisoprolol Fumarate+ Hydrochlorothiazide",
-            "trade_name": "BisocorTM Plus"
+            "trade_name": "BisocorTM Plus",
+            "group_name": "Bisoprolol Fumarate+ Hydrochlorothiazide"
         },
         {
-            "group_name": "Cartap HCL",
-            "trade_name": "Bravo\u00ae"
+            "trade_name": "Bravo\u00ae",
+            "group_name": "Cartap HCL"
         },
         {
-            "group_name": "Dextromethorphan",
-            "trade_name": "Brofex\u00ae"
+            "trade_name": "Brofex\u00ae",
+            "group_name": "Dextromethorphan"
         },
         {
-            "group_name": "Bromocriptine mesilate",
-            "trade_name": "Bromolac\u00ae"
+            "trade_name": "Bromolac\u00ae",
+            "group_name": "Bromocriptine mesilate"
         },
         {
-            "group_name": "Budesonide+ Formoterol Fumarate Dihydrate",
-            "trade_name": "BufocortTM Cozycap"
+            "trade_name": "BufocortTM Cozycap",
+            "group_name": "Budesonide+ Formoterol Fumarate Dihydrate"
         },
         {
-            "group_name": "Silver Sulfadiazine",
-            "trade_name": "Burna\u00ae"
+            "trade_name": "Burna\u00ae",
+            "group_name": "Silver Sulfadiazine"
         },
         {
-            "group_name": "Butenafine HCl",
-            "trade_name": "Butefin\u00ae"
+            "trade_name": "Butefin\u00ae",
+            "group_name": "Butenafine HCl"
         },
         {
-            "group_name": "Perindopril Erbumine",
-            "trade_name": "Cadnyl\u00ae"
+            "trade_name": "Cadnyl\u00ae",
+            "group_name": "Perindopril Erbumine"
         },
         {
-            "group_name": "Calcium Carbonate",
-            "trade_name": "Calbo 500\u00ae"
+            "trade_name": "Calbo 500\u00ae",
+            "group_name": "Calcium Carbonate"
         },
         {
-            "group_name": "Calcium Carbonate +Calcium Lactate gluconate + Vitamin ...",
-            "trade_name": "Calbo Forte\u00ae"
+            "trade_name": "Calbo Forte\u00ae",
+            "group_name": "Calcium Carbonate +Calcium Lactate gluconate + Vitamin ..."
         },
         {
-            "group_name": "Calcium Carbonate",
-            "trade_name": "Calbo Jr.\u00ae"
+            "trade_name": "Calbo Jr.\u00ae",
+            "group_name": "Calcium Carbonate"
         },
         {
-            "group_name": "Calcium laclate gluconate + Calcium carbonate + Ascorbi...",
-            "trade_name": "Calbo-C\u00ae"
+            "trade_name": "Calbo-C\u00ae",
+            "group_name": "Calcium laclate gluconate + Calcium carbonate + Ascorbi..."
         },
         {
-            "group_name": "Calcium 600 mg + Vitamin D 400 IU",
-            "trade_name": "Calbo-D Vita"
+            "trade_name": "Calbo-D Vita",
+            "group_name": "Calcium 600 mg + Vitamin D 400 IU"
         },
         {
-            "group_name": "Calcium + Vitamin-D",
-            "trade_name": "Calbo-D\u00ae"
+            "trade_name": "Calbo-D\u00ae",
+            "group_name": "Calcium + Vitamin-D"
         },
         {
-            "group_name": "Calcium+Vitamin-D+Multimineral",
-            "trade_name": "Calboplex\u00ae"
+            "trade_name": "Calboplex\u00ae",
+            "group_name": "Calcium+Vitamin-D+Multimineral"
         },
         {
-            "group_name": "Calcium Carbonate (from Coral source) USP 1250 mg & Vit...",
-            "trade_name": "Calboral-DTM"
+            "trade_name": "Calboral-DTM",
+            "group_name": "Calcium Carbonate (from Coral source) USP 1250 mg & Vit..."
         },
         {
-            "group_name": "Calcium Orotate",
-            "trade_name": "CalborateTM"
+            "trade_name": "CalborateTM",
+            "group_name": "Calcium Orotate"
         },
         {
-            "group_name": "Calcitriol",
-            "trade_name": "Calcitrol\u00ae"
+            "trade_name": "Calcitrol\u00ae",
+            "group_name": "Calcitriol"
         },
         {
-            "group_name": "Amlodipine + Atenolol ",
-            "trade_name": "Camlodin plus\u00ae"
+            "trade_name": "Camlodin plus\u00ae",
+            "group_name": "Amlodipine + Atenolol "
         },
         {
-            "group_name": "Amlodipine",
-            "trade_name": "Camlodin\u00ae"
+            "trade_name": "Camlodin\u00ae",
+            "group_name": "Amlodipine"
         },
         {
-            "group_name": "Amlodipine + Benazepril HCl ",
-            "trade_name": "Camlopril\u00ae"
+            "trade_name": "Camlopril\u00ae",
+            "group_name": "Amlodipine + Benazepril HCl "
         },
         {
-            "group_name": "Amlodipine + Olmesartan Medoxomil",
-            "trade_name": "CamlosartTM"
+            "trade_name": "CamlosartTM",
+            "group_name": "Amlodipine + Olmesartan Medoxomil"
         },
         {
-            "group_name": "Amlodipine + Atorvastatin ",
-            "trade_name": "Camlotor\u00ae"
+            "trade_name": "Camlotor\u00ae",
+            "group_name": "Amlodipine + Atorvastatin "
         },
         {
-            "group_name": "Amlodipine + Valsartan",
-            "trade_name": "Camoval\u00ae"
+            "trade_name": "Camoval\u00ae",
+            "group_name": "Amlodipine + Valsartan"
         },
         {
-            "group_name": "Canagliflozin",
-            "trade_name": "CanaglifTM"
+            "trade_name": "CanaglifTM",
+            "group_name": "Canagliflozin"
         },
         {
-            "group_name": "Nystatin",
-            "trade_name": "Candex\u00ae"
+            "trade_name": "Candex\u00ae",
+            "group_name": "Nystatin"
         },
         {
-            "group_name": "Carbimazole",
-            "trade_name": "Carbizol\u00ae"
+            "trade_name": "Carbizol\u00ae",
+            "group_name": "Carbimazole"
         },
         {
-            "group_name": "Atenolol + Chlorthalidone",
-            "trade_name": "Cardipro Plus\u00ae"
+            "trade_name": "Cardipro Plus\u00ae",
+            "group_name": "Atenolol + Chlorthalidone"
         },
         {
-            "group_name": "Atenolol",
-            "trade_name": "Cardipro\u00ae"
+            "trade_name": "Cardipro\u00ae",
+            "group_name": "Atenolol"
         },
         {
-            "group_name": "Aspirin",
-            "trade_name": "Carva\u00ae"
+            "trade_name": "Carva\u00ae",
+            "group_name": "Aspirin"
         },
         {
-            "group_name": "Entecavir",
-            "trade_name": "Cavir\u00ae"
+            "trade_name": "Cavir\u00ae",
+            "group_name": "Entecavir"
         },
         {
-            "group_name": "Vitamin-C",
-            "trade_name": "Ceevit Forte\u00ae"
+            "trade_name": "Ceevit Forte\u00ae",
+            "group_name": "Vitamin-C"
         },
         {
-            "group_name": "Vitamin-C",
-            "trade_name": "Ceevit\u00ae"
+            "trade_name": "Ceevit\u00ae",
+            "group_name": "Vitamin-C"
         },
         {
-            "group_name": "Cefixime",
-            "trade_name": "Cef-3\u00ae"
+            "trade_name": "Cef-3\u00ae",
+            "group_name": "Cefixime"
         },
         {
-            "group_name": "Cefuroxime Sodium",
-            "trade_name": "Cefotil\u00ae"
+            "trade_name": "Cefotil\u00ae",
+            "group_name": "Cefuroxime Sodium"
         },
         {
-            "group_name": "Cefuroxime & Clavulanic Acid",
-            "trade_name": "CefotilTM Plus"
+            "trade_name": "CefotilTM Plus",
+            "group_name": "Cefuroxime & Clavulanic Acid"
         },
         {
-            "group_name": "Ceftriaxone",
-            "trade_name": "Ceftron\u00ae"
+            "trade_name": "Ceftron\u00ae",
+            "group_name": "Ceftriaxone"
         },
         {
-            "group_name": "Cephalexin",
-            "trade_name": "Ceporin\u00ae"
+            "trade_name": "Ceporin\u00ae",
+            "group_name": "Cephalexin"
         },
         {
-            "group_name": "Vinpocetine",
-            "trade_name": "Cerevas\u00ae"
+            "trade_name": "Cerevas\u00ae",
+            "group_name": "Vinpocetine"
         },
         {
-            "group_name": "Cilostazol",
-            "trade_name": "Cilosta\u00ae"
+            "trade_name": "Cilosta\u00ae",
+            "group_name": "Cilostazol"
         },
         {
-            "group_name": "Cinnarizine",
-            "trade_name": "Cinaron\u00ae"
+            "trade_name": "Cinaron\u00ae",
+            "group_name": "Cinnarizine"
         },
         {
-            "group_name": "Cinnarizine+Dimenhydrinate",
-            "trade_name": "Cinaron\u00ae Plus"
+            "trade_name": "Cinaron\u00ae Plus",
+            "group_name": "Cinnarizine+Dimenhydrinate"
         },
         {
-            "group_name": "Ciprofloxacin",
-            "trade_name": "Ciprocin IV Infusion\u00ae"
+            "trade_name": "Ciprocin IV Infusion\u00ae",
+            "group_name": "Ciprofloxacin"
         },
         {
-            "group_name": "Ciprofloxacin",
-            "trade_name": "Ciprocin\u00ae"
+            "trade_name": "Ciprocin\u00ae",
+            "group_name": "Ciprofloxacin"
         },
         {
-            "group_name": "Ciprofloxacin",
-            "trade_name": "Ciprocin\u00ae Eye/Ear Drops"
+            "trade_name": "Ciprocin\u00ae Eye/Ear Drops",
+            "group_name": "Ciprofloxacin"
         },
         {
-            "group_name": "Clindamycin HCl",
-            "trade_name": "Climycin\u00ae"
+            "trade_name": "Climycin\u00ae",
+            "group_name": "Clindamycin HCl"
         },
         {
-            "group_name": "Clindamycin Phosphate+Tretinoin",
-            "trade_name": "Clinface\u00ae"
+            "trade_name": "Clinface\u00ae",
+            "group_name": "Clindamycin Phosphate+Tretinoin"
         },
         {
-            "group_name": "Clobazam",
-            "trade_name": "Clobam\u00ae"
+            "trade_name": "Clobam\u00ae",
+            "group_name": "Clobazam"
         },
         {
-            "group_name": "Diclofenac Sodium",
-            "trade_name": "Clofenac 100 Suppository\u00ae"
+            "trade_name": "Clofenac 100 Suppository\u00ae",
+            "group_name": "Diclofenac Sodium"
         },
         {
-            "group_name": "Diclofenac free acid",
-            "trade_name": "Clofenac DT\u00ae"
+            "trade_name": "Clofenac DT\u00ae",
+            "group_name": "Diclofenac free acid"
         },
         {
-            "group_name": "Diclofenac Diethyl-ammonium Salt",
-            "trade_name": "Clofenac Gel\u00ae"
+            "trade_name": "Clofenac Gel\u00ae",
+            "group_name": "Diclofenac Diethyl-ammonium Salt"
         },
         {
-            "group_name": "Diclofenac",
-            "trade_name": "Clofenac\u00ae"
+            "trade_name": "Clofenac\u00ae",
+            "group_name": "Diclofenac"
         },
         {
-            "group_name": "Ciclopirox Olamine",
-            "trade_name": "ClopiroxTM Cream"
+            "trade_name": "ClopiroxTM Cream",
+            "group_name": "Ciclopirox Olamine"
         },
         {
-            "group_name": "Enoxaparin Sodium",
-            "trade_name": "ClotinexTM"
+            "trade_name": "ClotinexTM",
+            "group_name": "Enoxaparin Sodium"
         },
         {
-            "group_name": "Dicycloverine HCl",
-            "trade_name": "Colicon\u00ae"
+            "trade_name": "Colicon\u00ae",
+            "group_name": "Dicycloverine HCl"
         },
         {
-            "group_name": "Colchicine",
-            "trade_name": "ColimaxTM"
+            "trade_name": "ColimaxTM",
+            "group_name": "Colchicine"
         },
         {
-            "group_name": "Peppermint Oil",
-            "trade_name": "ColmintTM"
+            "trade_name": "ColmintTM",
+            "group_name": "Peppermint Oil"
         },
         {
-            "group_name": "Metformin HCl",
-            "trade_name": "Comet\u00ae"
+            "trade_name": "Comet\u00ae",
+            "group_name": "Metformin HCl"
         },
         {
-            "group_name": "Gliclazide",
-            "trade_name": "CompridTM"
+            "trade_name": "CompridTM",
+            "group_name": "Gliclazide"
         },
         {
-            "group_name": "Theophylline",
-            "trade_name": "Contifil\u00ae"
+            "trade_name": "Contifil\u00ae",
+            "group_name": "Theophylline"
         },
         {
-            "group_name": "Glucosamine Sulfate + Chondroitin",
-            "trade_name": "Contilex\u00ae"
+            "trade_name": "Contilex\u00ae",
+            "group_name": "Glucosamine Sulfate + Chondroitin"
         },
         {
-            "group_name": "Sulphamethoxazole+Trimethoprim",
-            "trade_name": "Cotrim\u00ae"
+            "trade_name": "Cotrim\u00ae",
+            "group_name": "Sulphamethoxazole+Trimethoprim"
         },
         {
-            "group_name": "Cypermethrin",
-            "trade_name": "Cyperin\u00ae"
+            "trade_name": "Cyperin\u00ae",
+            "group_name": "Cypermethrin"
         },
         {
-            "group_name": "Zinc Oxide",
-            "trade_name": "De-rash\u00ae"
+            "trade_name": "De-rash\u00ae",
+            "group_name": "Zinc Oxide"
         },
         {
-            "group_name": "Iron Sucrose",
-            "trade_name": "Defiron\u00ae"
+            "trade_name": "Defiron\u00ae",
+            "group_name": "Iron Sucrose"
         },
         {
-            "group_name": "Deflazacort",
-            "trade_name": "DeflacortTM"
+            "trade_name": "DeflacortTM",
+            "group_name": "Deflazacort"
         },
         {
-            "group_name": "Gemfibrozil",
-            "trade_name": "Delipid\u00ae"
+            "trade_name": "Delipid\u00ae",
+            "group_name": "Gemfibrozil"
         },
         {
-            "group_name": "Imipramine",
-            "trade_name": "Depram\u00ae"
+            "trade_name": "Depram\u00ae",
+            "group_name": "Imipramine"
         },
         {
-            "group_name": "Olanzapine",
-            "trade_name": "Deprex\u00ae"
+            "trade_name": "Deprex\u00ae",
+            "group_name": "Olanzapine"
         },
         {
-            "group_name": "Clobetasol Propionate +Neomycin Sulphate +Nystatin",
-            "trade_name": "Dermasol-N\u00ae"
+            "trade_name": "Dermasol-N\u00ae",
+            "group_name": "Clobetasol Propionate +Neomycin Sulphate +Nystatin"
         },
         {
-            "group_name": "Clobetasol Propionate",
-            "trade_name": "Dermasol\u00ae"
+            "trade_name": "Dermasol\u00ae",
+            "group_name": "Clobetasol Propionate"
         },
         {
-            "group_name": "Clobetasol Propionate BP",
-            "trade_name": "DermasolTM-S"
+            "trade_name": "DermasolTM-S",
+            "group_name": "Clobetasol Propionate BP"
         },
         {
-            "group_name": "Dexamethasone+Chloramphenicol",
-            "trade_name": "Dexonex-CTM Eye/Ear Drops"
+            "trade_name": "Dexonex-CTM Eye/Ear Drops",
+            "group_name": "Dexamethasone+Chloramphenicol"
         },
         {
-            "group_name": "Dexamethasone",
-            "trade_name": "Dexonex\u00ae"
+            "trade_name": "Dexonex\u00ae",
+            "group_name": "Dexamethasone"
         },
         {
-            "group_name": "Dexamethasone",
-            "trade_name": "Dexonex\u00ae Eye/Ear Drops"
+            "trade_name": "Dexonex\u00ae Eye/Ear Drops",
+            "group_name": "Dexamethasone"
         },
         {
-            "group_name": "Glibenclamide",
-            "trade_name": "Dibenol\u00ae"
+            "trade_name": "Dibenol\u00ae",
+            "group_name": "Glibenclamide"
         },
         {
-            "group_name": "Duloxetine",
-            "trade_name": "Diliner\u00ae DR"
+            "trade_name": "Diliner\u00ae DR",
+            "group_name": "Duloxetine"
         },
         {
-            "group_name": "Diltiazem HCl",
-            "trade_name": "Diltizem SR 90\u00ae"
+            "trade_name": "Diltizem SR 90\u00ae",
+            "group_name": "Diltiazem HCl"
         },
         {
-            "group_name": "Betamethasone Dipropionate",
-            "trade_name": "Diprobet\u00ae"
+            "trade_name": "Diprobet\u00ae",
+            "group_name": "Betamethasone Dipropionate"
         },
         {
-            "group_name": "Midazolam",
-            "trade_name": "Dormitol\u00ae"
+            "trade_name": "Dormitol\u00ae",
+            "group_name": "Midazolam"
         },
         {
-            "group_name": "Doxycycline HCI",
-            "trade_name": "Doxacil\u00ae"
+            "trade_name": "Doxacil\u00ae",
+            "group_name": "Doxycycline HCI"
         },
         {
-            "group_name": "Aushokarist",
-            "trade_name": "DubarelTM"
+            "trade_name": "DubarelTM",
+            "group_name": "Aushokarist"
         },
         {
-            "group_name": "Magnesium Hydroxide & Liquid Paraffin",
-            "trade_name": "DuolaxTM"
+            "trade_name": "DuolaxTM",
+            "group_name": "Magnesium Hydroxide & Liquid Paraffin"
         },
         {
-            "group_name": "Carvedilol",
-            "trade_name": "Durol\u00ae"
+            "trade_name": "Durol\u00ae",
+            "group_name": "Carvedilol"
         },
         {
-            "group_name": "Calcipotriol+Betamethasone Dipropionate",
-            "trade_name": "Dyvon Plus\u00ae"
+            "trade_name": "Dyvon Plus\u00ae",
+            "group_name": "Calcipotriol+Betamethasone Dipropionate"
         },
         {
-            "group_name": "Calcipotriol",
-            "trade_name": "Dyvon\u00ae"
+            "trade_name": "Dyvon\u00ae",
+            "group_name": "Calcipotriol"
         },
         {
-            "group_name": "Diflorasone Diacetate",
-            "trade_name": "Eczena\u00ae"
+            "trade_name": "Eczena\u00ae",
+            "group_name": "Diflorasone Diacetate"
         },
         {
-            "group_name": "Prasugrel",
-            "trade_name": "Efigrel\u00ae"
+            "trade_name": "Efigrel\u00ae",
+            "group_name": "Prasugrel"
         },
         {
-            "group_name": "Donepezil HCl",
-            "trade_name": "Elzer\u00ae"
+            "trade_name": "Elzer\u00ae",
+            "group_name": "Donepezil HCl"
         },
         {
-            "group_name": "Pivmecillinam",
-            "trade_name": "Emcil\u00ae"
+            "trade_name": "Emcil\u00ae",
+            "group_name": "Pivmecillinam"
         },
         {
-            "group_name": "Light liquid paraffin & White soft paraffin",
-            "trade_name": "EmolentTM Cream"
+            "trade_name": "EmolentTM Cream",
+            "group_name": "Light liquid paraffin & White soft paraffin"
         },
         {
-            "group_name": "Berela",
-            "trade_name": "Enerton\u00ae"
+            "trade_name": "Enerton\u00ae",
+            "group_name": "Berela"
         },
         {
-            "group_name": "Antacid",
-            "trade_name": "Entacyd Plus\u00ae"
+            "trade_name": "Entacyd Plus\u00ae",
+            "group_name": "Antacid"
         },
         {
-            "group_name": "Antacid",
-            "trade_name": "Entacyd\u00ae"
+            "trade_name": "Entacyd\u00ae",
+            "group_name": "Antacid"
         },
         {
-            "group_name": "Phenobarbital",
-            "trade_name": "Epinal\u00ae"
+            "trade_name": "Epinal\u00ae",
+            "group_name": "Phenobarbital"
         },
         {
-            "group_name": "Clonazepam",
-            "trade_name": "Epitra\u00ae"
+            "trade_name": "Epitra\u00ae",
+            "group_name": "Clonazepam"
         },
         {
-            "group_name": "Evening Primrose Oil",
-            "trade_name": "Eprim\u00ae"
+            "trade_name": "Eprim\u00ae",
+            "group_name": "Evening Primrose Oil"
         },
         {
-            "group_name": "Urea",
-            "trade_name": "Equra\u00ae"
+            "trade_name": "Equra\u00ae",
+            "group_name": "Urea"
         },
         {
-            "group_name": "Yohimbe",
-            "trade_name": "EredexTM"
+            "trade_name": "EredexTM",
+            "group_name": "Yohimbe"
         },
         {
-            "group_name": "Cinchocaine HCI + Hydrocortisone + Framycetin Sulphate ...",
-            "trade_name": "Erian\u00ae"
+            "trade_name": "Erian\u00ae",
+            "group_name": "Cinchocaine HCI + Hydrocortisone + Framycetin Sulphate ..."
         },
         {
-            "group_name": "Erythromycin",
-            "trade_name": "Eromycin Lotion\u00ae"
+            "trade_name": "Eromycin Lotion\u00ae",
+            "group_name": "Erythromycin"
         },
         {
-            "group_name": "Erythromycin",
-            "trade_name": "Eromycin\u00ae"
+            "trade_name": "Eromycin\u00ae",
+            "group_name": "Erythromycin"
         },
         {
-            "group_name": "Eslicarbazepine acetate",
-            "trade_name": "EslicarTM"
+            "trade_name": "EslicarTM",
+            "group_name": "Eslicarbazepine acetate"
         },
         {
-            "group_name": "Allopurinol",
-            "trade_name": "Esloric\u00ae"
+            "trade_name": "Esloric\u00ae",
+            "group_name": "Allopurinol"
         },
         {
-            "group_name": "Isosorbide Mononitrate",
-            "trade_name": "Esmo LA\u00ae"
+            "trade_name": "Esmo LA\u00ae",
+            "group_name": "Isosorbide Mononitrate"
         },
         {
-            "group_name": "Isosorbide Mononitrate",
-            "trade_name": "Esmo\u00ae"
+            "trade_name": "Esmo\u00ae",
+            "group_name": "Isosorbide Mononitrate"
         },
         {
-            "group_name": "Drotaverine HCl",
-            "trade_name": "Espa\u00ae"
+            "trade_name": "Espa\u00ae",
+            "group_name": "Drotaverine HCl"
         },
         {
-            "group_name": "Vitamin E as alpha-Tocopheryl Acetate",
-            "trade_name": "Evit Licap\u00ae"
+            "trade_name": "Evit Licap\u00ae",
+            "group_name": "Vitamin E as alpha-Tocopheryl Acetate"
         },
         {
-            "group_name": "Vitamin E",
-            "trade_name": "Evit\u00ae"
+            "trade_name": "Evit\u00ae",
+            "group_name": "Vitamin E"
         },
         {
-            "group_name": "Bilberry",
-            "trade_name": "Eyebil\u00ae"
+            "trade_name": "Eyebil\u00ae",
+            "group_name": "Bilberry"
         },
         {
-            "group_name": "Vitamin C+Vitamin E+ Zinc+Copper+Lutein",
-            "trade_name": "Eyevi\u00ae"
+            "trade_name": "Eyevi\u00ae",
+            "group_name": "Vitamin C+Vitamin E+ Zinc+Copper+Lutein"
         },
         {
-            "group_name": "Clobetasone Butyrate",
-            "trade_name": "Ezex\u00ae"
+            "trade_name": "Ezex\u00ae",
+            "group_name": "Clobetasone Butyrate"
         },
         {
-            "group_name": "Gemifloxacin",
-            "trade_name": "Facticin\u00ae"
+            "trade_name": "Facticin\u00ae",
+            "group_name": "Gemifloxacin"
         },
         {
-            "group_name": "Famotidine",
-            "trade_name": "Famotack\u00ae"
+            "trade_name": "Famotack\u00ae",
+            "group_name": "Famotidine"
         },
         {
-            "group_name": "Ferrous Fumarate + Folic Acid",
-            "trade_name": "Fe-plus\u00ae"
+            "trade_name": "Fe-plus\u00ae",
+            "group_name": "Ferrous Fumarate + Folic Acid"
         },
         {
-            "group_name": "Estriol",
-            "trade_name": "FemastinTM"
+            "trade_name": "FemastinTM",
+            "group_name": "Estriol"
         },
         {
-            "group_name": "Fenticonazole Nitrate BP",
-            "trade_name": "FentizolTM VT 600"
+            "trade_name": "FentizolTM VT 600",
+            "group_name": "Fenticonazole Nitrate BP"
         },
         {
-            "group_name": "Fexofenadine HCl+Pseudoephedrine HCl",
-            "trade_name": "Fexo Plus\u00ae"
+            "trade_name": "Fexo Plus\u00ae",
+            "group_name": "Fexofenadine HCl+Pseudoephedrine HCl"
         },
         {
-            "group_name": "Fexofenadine HCl",
-            "trade_name": "Fexo\u00ae"
+            "trade_name": "Fexo\u00ae",
+            "group_name": "Fexofenadine HCl"
         },
         {
-            "group_name": "Melatonin",
-            "trade_name": "Filfresh\u00ae"
+            "trade_name": "Filfresh\u00ae",
+            "group_name": "Melatonin"
         },
         {
-            "group_name": "Multivitamin Multimineral",
-            "trade_name": "Filwel Gold\u00ae"
+            "trade_name": "Filwel Gold\u00ae",
+            "group_name": "Multivitamin Multimineral"
         },
         {
-            "group_name": "Multivitamin with Cod Liver Oil",
-            "trade_name": "Filwel Kids\u00ae"
+            "trade_name": "Filwel Kids\u00ae",
+            "group_name": "Multivitamin with Cod Liver Oil"
         },
         {
-            "group_name": "Multivitamin Multimineral",
-            "trade_name": "Filwel Silver\u00ae"
+            "trade_name": "Filwel Silver\u00ae",
+            "group_name": "Multivitamin Multimineral"
         },
         {
-            "group_name": "Multivitamin & Multimineral",
-            "trade_name": "FilwelTM Teen hm"
+            "trade_name": "FilwelTM Teen hm",
+            "group_name": "Multivitamin & Multimineral"
         },
         {
-            "group_name": "Multivitamin & Multimineral",
-            "trade_name": "FilwelTM Teen hr"
+            "trade_name": "FilwelTM Teen hr",
+            "group_name": "Multivitamin & Multimineral"
         },
         {
-            "group_name": "Simethicone",
-            "trade_name": "Flacol\u00ae"
+            "trade_name": "Flacol\u00ae",
+            "group_name": "Simethicone"
         },
         {
-            "group_name": "Aceclofenac",
-            "trade_name": "Flexi\u00ae"
+            "trade_name": "Flexi\u00ae",
+            "group_name": "Aceclofenac"
         },
         {
-            "group_name": "Baclofen",
-            "trade_name": "Flexilax\u00ae"
+            "trade_name": "Flexilax\u00ae",
+            "group_name": "Baclofen"
         },
         {
-            "group_name": "Fluticasone propionate",
-            "trade_name": "Flonaspray\u00ae"
+            "trade_name": "Flonaspray\u00ae",
+            "group_name": "Fluticasone propionate"
         },
         {
-            "group_name": "Fluconazole",
-            "trade_name": "Flugal\u00ae"
+            "trade_name": "Flugal\u00ae",
+            "group_name": "Fluconazole"
         },
         {
-            "group_name": "Flunarizine HCl",
-            "trade_name": "Flurizin\u00ae"
+            "trade_name": "Flurizin\u00ae",
+            "group_name": "Flunarizine HCl"
         },
         {
-            "group_name": "Cefadroxil as Cefadroxil Monohydrate USP",
-            "trade_name": "FodexilTM 500"
+            "trade_name": "FodexilTM 500",
+            "group_name": "Cefadroxil as Cefadroxil Monohydrate USP"
         },
         {
-            "group_name": "Adapalene+Benzoyl peroxide",
-            "trade_name": "Fona plus\u00ae"
+            "trade_name": "Fona plus\u00ae",
+            "group_name": "Adapalene+Benzoyl peroxide"
         },
         {
-            "group_name": "Adapalene",
-            "trade_name": "Fona\u00ae"
+            "trade_name": "Fona\u00ae",
+            "group_name": "Adapalene"
         },
         {
-            "group_name": "Cefpirome",
-            "trade_name": "Force\u00ae"
+            "trade_name": "Force\u00ae",
+            "group_name": "Cefpirome"
         },
         {
-            "group_name": "Acephate",
-            "trade_name": "Fortunate\u00ae"
+            "trade_name": "Fortunate\u00ae",
+            "group_name": "Acephate"
         },
         {
-            "group_name": "Tranexamic acid",
-            "trade_name": "Frabex\u00ae"
+            "trade_name": "Frabex\u00ae",
+            "group_name": "Tranexamic acid"
         },
         {
-            "group_name": "Miconazole Nitrate ",
-            "trade_name": "Fungidal BT\u00ae"
+            "trade_name": "Fungidal BT\u00ae",
+            "group_name": "Miconazole Nitrate "
         },
         {
-            "group_name": "Miconazole nitrate+ Hydrocortisone",
-            "trade_name": "Fungidal HC\u00ae"
+            "trade_name": "Fungidal HC\u00ae",
+            "group_name": "Miconazole nitrate+ Hydrocortisone"
         },
         {
-            "group_name": "Miconazole Nitrate ",
-            "trade_name": "Fungidal\u00ae"
+            "trade_name": "Fungidal\u00ae",
+            "group_name": "Miconazole Nitrate "
         },
         {
-            "group_name": "Furosemide",
-            "trade_name": "Fusid\u00ae"
+            "trade_name": "Fusid\u00ae",
+            "group_name": "Furosemide"
         },
         {
-            "group_name": "Spironolactone + Furosemide",
-            "trade_name": "Fusid\u00ae Plus"
+            "trade_name": "Fusid\u00ae Plus",
+            "group_name": "Spironolactone + Furosemide"
         },
         {
-            "group_name": "Fusidic Acid & Hydrocortisone Acetate",
-            "trade_name": "Fusitop-HCTM"
+            "trade_name": "Fusitop-HCTM",
+            "group_name": "Fusidic Acid & Hydrocortisone Acetate"
         },
         {
-            "group_name": "Gabapentin",
-            "trade_name": "Gabastar\u00ae"
+            "trade_name": "Gabastar\u00ae",
+            "group_name": "Gabapentin"
         },
         {
-            "group_name": "Garlic Oil 10 mg",
-            "trade_name": "GarlinTM"
+            "trade_name": "GarlinTM",
+            "group_name": "Garlic Oil 10 mg"
         },
         {
-            "group_name": "Sulphur",
-            "trade_name": "Gayvet\u00ae"
+            "trade_name": "Gayvet\u00ae",
+            "group_name": "Sulphur"
         },
         {
-            "group_name": "Miconazole",
-            "trade_name": "Gelora\u00ae"
+            "trade_name": "Gelora\u00ae",
+            "group_name": "Miconazole"
         },
         {
-            "group_name": "Gentamicin",
-            "trade_name": "Genacyn Ointment\u00ae"
+            "trade_name": "Genacyn Ointment\u00ae",
+            "group_name": "Gentamicin"
         },
         {
-            "group_name": "Gentamicin",
-            "trade_name": "Genacyn\u00ae Eye/Ear Drops"
+            "trade_name": "Genacyn\u00ae Eye/Ear Drops",
+            "group_name": "Gentamicin"
         },
         {
-            "group_name": "Thiopental Sodium",
-            "trade_name": "GenisiaTM"
+            "trade_name": "GenisiaTM",
+            "group_name": "Thiopental Sodium"
         },
         {
-            "group_name": "Chlorhexidine Gluconate",
-            "trade_name": "Germisol\u00ae Hand Rub"
+            "trade_name": "Germisol\u00ae Hand Rub",
+            "group_name": "Chlorhexidine Gluconate"
         },
         {
-            "group_name": "Allylestrenol",
-            "trade_name": "GestonTM"
+            "trade_name": "GestonTM",
+            "group_name": "Allylestrenol"
         },
         {
-            "group_name": "Ginkgo biloba",
-            "trade_name": "Giloba\u00ae"
+            "trade_name": "Giloba\u00ae",
+            "group_name": "Ginkgo biloba"
         },
         {
-            "group_name": "Panax ginseng",
-            "trade_name": "Gintex\u00ae"
+            "trade_name": "Gintex\u00ae",
+            "group_name": "Panax ginseng"
         },
         {
-            "group_name": "Glycerin BP",
-            "trade_name": "GlysupTM"
+            "trade_name": "GlysupTM",
+            "group_name": "Glycerin BP"
         },
         {
-            "group_name": "Macrogol & Electrolytes",
-            "trade_name": "GOLTM"
+            "trade_name": "GOLTM",
+            "group_name": "Macrogol & Electrolytes"
         },
         {
-            "group_name": "Carbendazim",
-            "trade_name": "Goldazim\u00ae"
+            "trade_name": "Goldazim\u00ae",
+            "group_name": "Carbendazim"
         },
         {
-            "group_name": "Filgrastim",
-            "trade_name": "GrastimTM"
+            "trade_name": "GrastimTM",
+            "group_name": "Filgrastim"
         },
         {
-            "group_name": "Metronidazole+ Neomycin Sulphate+ Polymyxin B Sulphate ...",
-            "trade_name": "Gynepro\u00ae"
+            "trade_name": "Gynepro\u00ae",
+            "group_name": "Metronidazole+ Neomycin Sulphate+ Polymyxin B Sulphate ..."
         },
         {
-            "group_name": "Halobetasol Propionate",
-            "trade_name": "Halobet\u00ae"
+            "trade_name": "Halobet\u00ae",
+            "group_name": "Halobetasol Propionate"
         },
         {
-            "group_name": "Diosmin + Hesperidine",
-            "trade_name": "Hemorif\u00ae"
+            "trade_name": "Hemorif\u00ae",
+            "group_name": "Diosmin + Hesperidine"
         },
         {
-            "group_name": "Lamivudine",
-            "trade_name": "Hepavir\u00ae"
+            "trade_name": "Hepavir\u00ae",
+            "group_name": "Lamivudine"
         },
         {
-            "group_name": "Loperamide HCl",
-            "trade_name": "Imotil\u00ae"
+            "trade_name": "Imotil\u00ae",
+            "group_name": "Loperamide HCl"
         },
         {
-            "group_name": "Imidacloprid",
-            "trade_name": "Impel\u00ae"
+            "trade_name": "Impel\u00ae",
+            "group_name": "Imidacloprid"
         },
         {
-            "group_name": "Echinacea",
-            "trade_name": "Inacea@"
+            "trade_name": "Inacea@",
+            "group_name": "Echinacea"
         },
         {
-            "group_name": "Prednisolone",
-            "trade_name": "Inflagic\u00ae"
+            "trade_name": "Inflagic\u00ae",
+            "group_name": "Prednisolone"
         },
         {
-            "group_name": "Tadalafil",
-            "trade_name": "Intimate\u00ae"
+            "trade_name": "Intimate\u00ae",
+            "group_name": "Tadalafil"
         },
         {
-            "group_name": "Ipratropium Bromide",
-            "trade_name": "Iprex Inhaler\u00ae"
+            "trade_name": "Iprex Inhaler\u00ae",
+            "group_name": "Ipratropium Bromide"
         },
         {
-            "group_name": "Ipratropium Bromide",
-            "trade_name": "Iprex Respirator Solution\u00ae"
+            "trade_name": "Iprex Respirator Solution\u00ae",
+            "group_name": "Ipratropium Bromide"
         },
         {
-            "group_name": "Levetiracetam",
-            "trade_name": "IracetTM"
+            "trade_name": "IracetTM",
+            "group_name": "Levetiracetam"
         },
         {
-            "group_name": "Misoprostol",
-            "trade_name": "Isovent\u00ae"
+            "trade_name": "Isovent\u00ae",
+            "group_name": "Misoprostol"
         },
         {
-            "group_name": "Ispaghula husk",
-            "trade_name": "Ispergul\u00ae"
+            "trade_name": "Ispergul\u00ae",
+            "group_name": "Ispaghula husk"
         },
         {
-            "group_name": "Itraconazole",
-            "trade_name": "Itra\u00ae"
+            "trade_name": "Itra\u00ae",
+            "group_name": "Itraconazole"
         },
         {
-            "group_name": "Ivabradine",
-            "trade_name": "Ivanor\u00ae"
+            "trade_name": "Ivanor\u00ae",
+            "group_name": "Ivabradine"
         },
         {
-            "group_name": "Moxifloxacin",
-            "trade_name": "Iventi 400 IV\u00ae"
+            "trade_name": "Iventi 400 IV\u00ae",
+            "group_name": "Moxifloxacin"
         },
         {
-            "group_name": "Moxifloxacin USP",
-            "trade_name": "Iventi Tablet"
+            "trade_name": "Iventi Tablet",
+            "group_name": "Moxifloxacin USP"
         },
         {
-            "group_name": "Moxifloxacin",
-            "trade_name": "Iventi\u00ae Eye Drops"
+            "trade_name": "Iventi\u00ae Eye Drops",
+            "group_name": "Moxifloxacin"
         },
         {
-            "group_name": "St. Johns Wort",
-            "trade_name": "Jort\u00ae"
+            "trade_name": "Jort\u00ae",
+            "group_name": "St. Johns Wort"
         },
         {
-            "group_name": "Phytomenadione",
-            "trade_name": "K-One\u00ae"
+            "trade_name": "K-One\u00ae",
+            "group_name": "Phytomenadione"
         },
         {
-            "group_name": "Diclofenac Potassium",
-            "trade_name": "Kalinac\u00ae"
+            "trade_name": "Kalinac\u00ae",
+            "group_name": "Diclofenac Potassium"
         },
         {
-            "group_name": "German Chamomile with other herbs",
-            "trade_name": "Kamomil\u00ae"
+            "trade_name": "Kamomil\u00ae",
+            "group_name": "German Chamomile with other herbs"
         },
         {
-            "group_name": "Ketoconazole",
-            "trade_name": "Ketoral\u00ae"
+            "trade_name": "Ketoral\u00ae",
+            "group_name": "Ketoconazole"
         },
         {
-            "group_name": "Ketoprofen",
-            "trade_name": "Kop Gel\u00ae"
+            "trade_name": "Kop Gel\u00ae",
+            "group_name": "Ketoprofen"
         },
         {
-            "group_name": "Ketoprofen",
-            "trade_name": "Kop\u00ae"
+            "trade_name": "Kop\u00ae",
+            "group_name": "Ketoprofen"
         },
         {
-            "group_name": "Lacidipine",
-            "trade_name": "Laciten\u00ae"
+            "trade_name": "Laciten\u00ae",
+            "group_name": "Lacidipine"
         },
         {
-            "group_name": "Hartmann\u2019s solution",
-            "trade_name": "LactoringTM IV"
+            "trade_name": "LactoringTM IV",
+            "group_name": "Hartmann\u2019s solution"
         },
         {
-            "group_name": "Lansoprazole",
-            "trade_name": "Lanso\u00ae"
+            "trade_name": "Lanso\u00ae",
+            "group_name": "Lansoprazole"
         },
         {
-            "group_name": "Bromazepam",
-            "trade_name": "Laxyl\u00ae"
+            "trade_name": "Laxyl\u00ae",
+            "group_name": "Bromazepam"
         },
         {
-            "group_name": "Cephradine",
-            "trade_name": "Lebac\u00ae"
+            "trade_name": "Lebac\u00ae",
+            "group_name": "Cephradine"
         },
         {
-            "group_name": "Patrangasav (Woodfordia fruticosa)",
-            "trade_name": "LecorTM"
+            "trade_name": "LecorTM",
+            "group_name": "Patrangasav (Woodfordia fruticosa)"
         },
         {
-            "group_name": "Letrozole",
-            "trade_name": "Lerozol\u00ae"
+            "trade_name": "Lerozol\u00ae",
+            "group_name": "Letrozole"
         },
         {
-            "group_name": "Levocarnitine",
-            "trade_name": "Levocar\u00ae"
+            "trade_name": "Levocar\u00ae",
+            "group_name": "Levocarnitine"
         },
         {
-            "group_name": "Levosalbutamol",
-            "trade_name": "Levostar\u00ae"
+            "trade_name": "Levostar\u00ae",
+            "group_name": "Levosalbutamol"
         },
         {
-            "group_name": "Lidocaine",
-            "trade_name": "LidoTM"
+            "trade_name": "LidoTM",
+            "group_name": "Lidocaine"
         },
         {
-            "group_name": "Linagliptin INN",
-            "trade_name": "LinitaTM"
+            "trade_name": "LinitaTM",
+            "group_name": "Linagliptin INN"
         },
         {
-            "group_name": "Fenofibrate",
-            "trade_name": "Lipired 160\u00ae"
+            "trade_name": "Lipired 160\u00ae",
+            "group_name": "Fenofibrate"
         },
         {
-            "group_name": "Fenofibrate",
-            "trade_name": "Lipired\u00ae"
+            "trade_name": "Lipired\u00ae",
+            "group_name": "Fenofibrate"
         },
         {
-            "group_name": "Andrographis paniculata",
-            "trade_name": "Livolite\u00ae"
+            "trade_name": "Livolite\u00ae",
+            "group_name": "Andrographis paniculata"
         },
         {
-            "group_name": "Multivitamin Multimineral",
-            "trade_name": "Livwel Syrup\u00ae"
+            "trade_name": "Livwel Syrup\u00ae",
+            "group_name": "Multivitamin Multimineral"
         },
         {
-            "group_name": "Brimonidine Tartrate",
-            "trade_name": "Locular\u00ae Eye Drop"
+            "trade_name": "Locular\u00ae Eye Drop",
+            "group_name": "Brimonidine Tartrate"
         },
         {
-            "group_name": "Brimonidine Tartrate & Timolol",
-            "trade_name": "Locular\u00ae Plus Eye Drops"
+            "trade_name": "Locular\u00ae Plus Eye Drops",
+            "group_name": "Brimonidine Tartrate & Timolol"
         },
         {
-            "group_name": "Cefaclor",
-            "trade_name": "Loracef\u00ae"
+            "trade_name": "Loracef\u00ae",
+            "group_name": "Cefaclor"
         },
         {
-            "group_name": "Loratadine",
-            "trade_name": "Loratin\u00ae"
+            "trade_name": "Loratin\u00ae",
+            "group_name": "Loratadine"
         },
         {
-            "group_name": "Dextran 70 + Hypromellose",
-            "trade_name": "Lubtear\u00ae Eye Drops"
+            "trade_name": "Lubtear\u00ae Eye Drops",
+            "group_name": "Dextran 70 + Hypromellose"
         },
         {
-            "group_name": "Roflumilast 500 mcg",
-            "trade_name": "LumastTM"
+            "trade_name": "LumastTM",
+            "group_name": "Roflumilast 500 mcg"
         },
         {
-            "group_name": "Artemether + Lumefantrine",
-            "trade_name": "Lumertam\u00ae"
+            "trade_name": "Lumertam\u00ae",
+            "group_name": "Artemether + Lumefantrine"
         },
         {
-            "group_name": "Lurasidone",
-            "trade_name": "LuraprexTM"
+            "trade_name": "LuraprexTM",
+            "group_name": "Lurasidone"
         },
         {
-            "group_name": "Magaldrate+Simethicone",
-            "trade_name": "Maganta Plus\u00ae"
+            "trade_name": "Maganta Plus\u00ae",
+            "group_name": "Magaldrate+Simethicone"
         },
         {
-            "group_name": "Sulfadoxine + Pyrimethamine",
-            "trade_name": "Malacide\u00ae"
+            "trade_name": "Malacide\u00ae",
+            "group_name": "Sulfadoxine + Pyrimethamine"
         },
         {
-            "group_name": "Cefotaxime",
-            "trade_name": "Maxcef\u00ae"
+            "trade_name": "Maxcef\u00ae",
+            "group_name": "Cefotaxime"
         },
         {
-            "group_name": "Cefepime",
-            "trade_name": "Maxpime\u00ae"
+            "trade_name": "Maxpime\u00ae",
+            "group_name": "Cefepime"
         },
         {
-            "group_name": "Tamsulosin HCl",
-            "trade_name": "Maxrin\u00ae"
+            "trade_name": "Maxrin\u00ae",
+            "group_name": "Tamsulosin HCl"
         },
         {
-            "group_name": "Meloxicam",
-            "trade_name": "Melcam\u00ae"
+            "trade_name": "Melcam\u00ae",
+            "group_name": "Meloxicam"
         },
         {
-            "group_name": "Flupenthixol + Melitracen",
-            "trade_name": "Melixol\u00ae"
+            "trade_name": "Melixol\u00ae",
+            "group_name": "Flupenthixol + Melitracen"
         },
         {
-            "group_name": "Norethisterone",
-            "trade_name": "Menoral\u00ae"
+            "trade_name": "Menoral\u00ae",
+            "group_name": "Norethisterone"
         },
         {
-            "group_name": "Betahistine Mesilate",
-            "trade_name": "Merison\u00ae"
+            "trade_name": "Merison\u00ae",
+            "group_name": "Betahistine Mesilate"
         },
         {
-            "group_name": "Mometasone Furoate",
-            "trade_name": "Metaspray Nasal Spray\u00ae"
+            "trade_name": "Metaspray Nasal Spray\u00ae",
+            "group_name": "Mometasone Furoate"
         },
         {
-            "group_name": "Mecobalamin",
-            "trade_name": "Methicol\u00ae"
+            "trade_name": "Methicol\u00ae",
+            "group_name": "Mecobalamin"
         },
         {
-            "group_name": "Mebeverine Hydrocloride",
-            "trade_name": "MevinTM"
+            "trade_name": "MevinTM",
+            "group_name": "Mebeverine Hydrocloride"
         },
         {
-            "group_name": "Lomefloxacin",
-            "trade_name": "Mexlo\u00ae"
+            "trade_name": "Mexlo\u00ae",
+            "group_name": "Lomefloxacin"
         },
         {
-            "group_name": "Lomefloxacin",
-            "trade_name": "Mexlo\u00ae Eye Drops"
+            "trade_name": "Mexlo\u00ae Eye Drops",
+            "group_name": "Lomefloxacin"
         },
         {
-            "group_name": "Diclofenac Sodium + Misoprostol",
-            "trade_name": "Miclofenac\u00ae"
+            "trade_name": "Miclofenac\u00ae",
+            "group_name": "Diclofenac Sodium + Misoprostol"
         },
         {
-            "group_name": "Pizotifen Malate",
-            "trade_name": "Migranil\u00ae"
+            "trade_name": "Migranil\u00ae",
+            "group_name": "Pizotifen Malate"
         },
         {
-            "group_name": "Butamirate CItrate",
-            "trade_name": "Mirakof\u00ae"
+            "trade_name": "Mirakof\u00ae",
+            "group_name": "Butamirate CItrate"
         },
         {
-            "group_name": "Bacopa extract",
-            "trade_name": "Monera\u00ae"
+            "trade_name": "Monera\u00ae",
+            "group_name": "Bacopa extract"
         },
         {
-            "group_name": "Montelukast",
-            "trade_name": "Montene\u00ae"
+            "trade_name": "Montene\u00ae",
+            "group_name": "Montelukast"
         },
         {
-            "group_name": "Domperidone",
-            "trade_name": "Motifast\u00ae"
+            "trade_name": "Motifast\u00ae",
+            "group_name": "Domperidone"
         },
         {
-            "group_name": "Domperidone",
-            "trade_name": "Motigut\u00ae"
+            "trade_name": "Motigut\u00ae",
+            "group_name": "Domperidone"
         },
         {
-            "group_name": "Amoxicillin Trihydrate",
-            "trade_name": "Moxacil\u00ae"
+            "trade_name": "Moxacil\u00ae",
+            "group_name": "Amoxicillin Trihydrate"
         },
         {
-            "group_name": "Amoxicillin + Clavulanic acid",
-            "trade_name": "Moxaclav\u00ae"
+            "trade_name": "Moxaclav\u00ae",
+            "group_name": "Amoxicillin + Clavulanic acid"
         },
         {
-            "group_name": "Bromhexine HCl",
-            "trade_name": "Mucospel\u00ae"
+            "trade_name": "Mucospel\u00ae",
+            "group_name": "Bromhexine HCl"
         },
         {
-            "group_name": "Multivitamin Multimineral",
-            "trade_name": "Multivit Plus\u00ae"
+            "trade_name": "Multivit Plus\u00ae",
+            "group_name": "Multivitamin Multimineral"
         },
         {
-            "group_name": "Eperisone HCl ",
-            "trade_name": "Myonil\u00ae"
+            "trade_name": "Myonil\u00ae",
+            "group_name": "Eperisone HCl "
         },
         {
-            "group_name": "Sodium Cromoglycate BP",
-            "trade_name": "Nacromin\u00ae"
+            "trade_name": "Nacromin\u00ae",
+            "group_name": "Sodium Cromoglycate BP"
         },
         {
-            "group_name": "Nalidixic Acid",
-            "trade_name": "Nalid\u00ae"
+            "trade_name": "Nalid\u00ae",
+            "group_name": "Nalidixic Acid"
         },
         {
-            "group_name": "Granisetron HCl ",
-            "trade_name": "Naurif\u00ae"
+            "trade_name": "Naurif\u00ae",
+            "group_name": "Granisetron HCl "
         },
         {
-            "group_name": "Spirulina",
-            "trade_name": "Navit\u00ae"
+            "trade_name": "Navit\u00ae",
+            "group_name": "Spirulina"
         },
         {
-            "group_name": "Neomycin Sulphate, Bacitracin Zinc & Polymyxin B Sulpha...",
-            "trade_name": "Nebanol Plus\u00ae"
+            "trade_name": "Nebanol Plus\u00ae",
+            "group_name": "Neomycin Sulphate, Bacitracin Zinc & Polymyxin B Sulpha..."
         },
         {
-            "group_name": "Neomycin Sulphate + Bacitracin Zinc",
-            "trade_name": "Nebanol\u00ae"
+            "trade_name": "Nebanol\u00ae",
+            "group_name": "Neomycin Sulphate + Bacitracin Zinc"
         },
         {
-            "group_name": "Nebivolol Hydrochloride",
-            "trade_name": "NebitaTM"
+            "trade_name": "NebitaTM",
+            "group_name": "Nebivolol Hydrochloride"
         },
         {
-            "group_name": "Glycerol +Liquid Sugar",
-            "trade_name": "Nectar\u00ae"
+            "trade_name": "Nectar\u00ae",
+            "group_name": "Glycerol +Liquid Sugar"
         },
         {
-            "group_name": "Ranitidine HCl",
-            "trade_name": "Neotack\u00ae"
+            "trade_name": "Neotack\u00ae",
+            "group_name": "Ranitidine HCl"
         },
         {
-            "group_name": "Neomycin + Polymyxin B + Pramoxine HCl",
-            "trade_name": "Nepranol\u00ae"
+            "trade_name": "Nepranol\u00ae",
+            "group_name": "Neomycin + Polymyxin B + Pramoxine HCl"
         },
         {
-            "group_name": "Vitamin B1 +Vitamin B6 +Vitamin B12",
-            "trade_name": "Neuro-B\u00ae"
+            "trade_name": "Neuro-B\u00ae",
+            "group_name": "Vitamin B1 +Vitamin B6 +Vitamin B12"
         },
         {
-            "group_name": "Piracetam",
-            "trade_name": "NeurolepTM"
+            "trade_name": "NeurolepTM",
+            "group_name": "Piracetam"
         },
         {
-            "group_name": "Pregabalin",
-            "trade_name": "Neurolin\u00ae"
+            "trade_name": "Neurolin\u00ae",
+            "group_name": "Pregabalin"
         },
         {
-            "group_name": "Esomeprazole",
-            "trade_name": "Nexum\u00ae"
+            "trade_name": "Nexum\u00ae",
+            "group_name": "Esomeprazole"
         },
         {
-            "group_name": "Nifedipine",
-            "trade_name": "Nidipine\u00ae"
+            "trade_name": "Nidipine\u00ae",
+            "group_name": "Nifedipine"
         },
         {
-            "group_name": "Nifedipine +Atenolol",
-            "trade_name": "Nidipro\u00ae"
+            "trade_name": "Nidipro\u00ae",
+            "group_name": "Nifedipine +Atenolol"
         },
         {
-            "group_name": "Tretinoin",
-            "trade_name": "Nilac Gel\u00ae"
+            "trade_name": "Nilac Gel\u00ae",
+            "group_name": "Tretinoin"
         },
         {
-            "group_name": "Nimodipine",
-            "trade_name": "Nimocal\u00ae"
+            "trade_name": "Nimocal\u00ae",
+            "group_name": "Nimodipine"
         },
         {
-            "group_name": "Alprazolam",
-            "trade_name": "Nixalo\u00ae"
+            "trade_name": "Nixalo\u00ae",
+            "group_name": "Alprazolam"
         },
         {
-            "group_name": "Zolmitriptan",
-            "trade_name": "Nomi\u00ae"
+            "trade_name": "Nomi\u00ae",
+            "group_name": "Zolmitriptan"
         },
         {
-            "group_name": "Levonorgestrel",
-            "trade_name": "NorpillTM1"
+            "trade_name": "NorpillTM1",
+            "group_name": "Levonorgestrel"
         },
         {
-            "group_name": "Tiotropium Bromide",
-            "trade_name": "Norvent Inhaler\u00ae"
+            "trade_name": "Norvent Inhaler\u00ae",
+            "group_name": "Tiotropium Bromide"
         },
         {
-            "group_name": "Tiemonium Methylsulfate",
-            "trade_name": "Norvis\u00ae"
+            "trade_name": "Norvis\u00ae",
+            "group_name": "Tiemonium Methylsulfate"
         },
         {
-            "group_name": "Bromfenac Sodium",
-            "trade_name": "OcubromTM Eye Drops"
+            "trade_name": "OcubromTM Eye Drops",
+            "group_name": "Bromfenac Sodium"
         },
         {
-            "group_name": "Polyethylene Glycol 400 BP 0.4% and Propylene Glycol BP...",
-            "trade_name": "OculantTM Eye Drops"
+            "trade_name": "OculantTM Eye Drops",
+            "group_name": "Polyethylene Glycol 400 BP 0.4% and Propylene Glycol BP..."
         },
         {
-            "group_name": "Dextromethorphane+ Pseudoephedrine HCl+Triprolidine HCl",
-            "trade_name": "Ofkof\u00ae"
+            "trade_name": "Ofkof\u00ae",
+            "group_name": "Dextromethorphane+ Pseudoephedrine HCl+Triprolidine HCl"
         },
         {
-            "group_name": "Ondansetron HCl",
-            "trade_name": "Ofran\u00ae"
+            "trade_name": "Ofran\u00ae",
+            "group_name": "Ondansetron HCl"
         },
         {
-            "group_name": "Cod Liver Oil",
-            "trade_name": "Olicod\u00ae"
+            "trade_name": "Olicod\u00ae",
+            "group_name": "Cod Liver Oil"
         },
         {
-            "group_name": "Orlistat",
-            "trade_name": "OlistatTM 120"
+            "trade_name": "OlistatTM 120",
+            "group_name": "Orlistat"
         },
         {
-            "group_name": "Olmesartan Medoxomil+Hydrochlorothiazide",
-            "trade_name": "Olmecar Plus\u00ae"
+            "trade_name": "Olmecar Plus\u00ae",
+            "group_name": "Olmesartan Medoxomil+Hydrochlorothiazide"
         },
         {
-            "group_name": "Olmesartan Medoxomil",
-            "trade_name": "Olmecar\u00ae"
+            "trade_name": "Olmecar\u00ae",
+            "group_name": "Olmesartan Medoxomil"
         },
         {
-            "group_name": "Betamethasone DP + Clotrimazole",
-            "trade_name": "Oni\u00ae"
+            "trade_name": "Oni\u00ae",
+            "group_name": "Betamethasone DP + Clotrimazole"
         },
         {
-            "group_name": "Benzocaine",
-            "trade_name": "Orogel Dental Gel\u00ae"
+            "trade_name": "Orogel Dental Gel\u00ae",
+            "group_name": "Benzocaine"
         },
         {
-            "group_name": "Menthol + Thymol + Eucalyptol + Methyl Salicylate",
-            "trade_name": "OrostarTM Cool Mint and Original Antiseptic Mouthwash"
+            "trade_name": "OrostarTM Cool Mint and Original Antiseptic Mouthwash",
+            "group_name": "Menthol + Thymol + Eucalyptol + Methyl Salicylate"
         },
         {
-            "group_name": "Eucalyptol+Menthol+Methyl Salicylate+Thymol+Sodium Fluo...",
-            "trade_name": "OrostarTM Plus"
+            "trade_name": "OrostarTM Plus",
+            "group_name": "Eucalyptol+Menthol+Methyl Salicylate+Thymol+Sodium Fluo..."
         },
         {
-            "group_name": "Lactulose",
-            "trade_name": "Osmolax\u00ae"
+            "trade_name": "Osmolax\u00ae",
+            "group_name": "Lactulose"
         },
         {
-            "group_name": "Sodium Alendronate +Vit D3",
-            "trade_name": "Ostel-D\u00ae"
+            "trade_name": "Ostel-D\u00ae",
+            "group_name": "Sodium Alendronate +Vit D3"
         },
         {
-            "group_name": "Escitalopram",
-            "trade_name": "Oxapro\u00ae"
+            "trade_name": "Oxapro\u00ae",
+            "group_name": "Escitalopram"
         },
         {
-            "group_name": "Paroxetine HCl ",
-            "trade_name": "Oxat\u00ae"
+            "trade_name": "Oxat\u00ae",
+            "group_name": "Paroxetine HCl "
         },
         {
-            "group_name": "Oxiconazole",
-            "trade_name": "Oxifun\u00ae"
+            "trade_name": "Oxifun\u00ae",
+            "group_name": "Oxiconazole"
         },
         {
-            "group_name": "Pentoxifylline",
-            "trade_name": "Oxifyl CR\u00ae"
+            "trade_name": "Oxifyl CR\u00ae",
+            "group_name": "Pentoxifylline"
         },
         {
-            "group_name": "Palonosetron",
-            "trade_name": "PalosetTM"
+            "trade_name": "PalosetTM",
+            "group_name": "Palonosetron"
         },
         {
-            "group_name": "Etodolac",
-            "trade_name": "Panodin SR\u00ae"
+            "trade_name": "Panodin SR\u00ae",
+            "group_name": "Etodolac"
         },
         {
-            "group_name": "Methyl Salicylate + Menthol",
-            "trade_name": "Penrif\u00ae"
+            "trade_name": "Penrif\u00ae",
+            "group_name": "Methyl Salicylate + Menthol"
         },
         {
-            "group_name": "Tapentadol HCl",
-            "trade_name": "Pentadol\u00ae"
+            "trade_name": "Pentadol\u00ae",
+            "group_name": "Tapentadol HCl"
         },
         {
-            "group_name": "Phenoxymethyl Penicillin",
-            "trade_name": "Penvik\u00ae"
+            "trade_name": "Penvik\u00ae",
+            "group_name": "Phenoxymethyl Penicillin"
         },
         {
-            "group_name": "Jeerakaddarishta",
-            "trade_name": "Pepnor\u00ae"
+            "trade_name": "Pepnor\u00ae",
+            "group_name": "Jeerakaddarishta"
         },
         {
-            "group_name": "Haloperidol",
-            "trade_name": "Peridol\u00ae"
+            "trade_name": "Peridol\u00ae",
+            "group_name": "Haloperidol"
         },
         {
-            "group_name": "Procyclidine HCl",
-            "trade_name": "Perkinil\u00ae"
+            "trade_name": "Perkinil\u00ae",
+            "group_name": "Procyclidine HCl"
         },
         {
-            "group_name": "Ropinirole",
-            "trade_name": "Perkirol\u00ae"
+            "trade_name": "Perkirol\u00ae",
+            "group_name": "Ropinirole"
         },
         {
-            "group_name": "Sodium Dichloroisocyanurate",
-            "trade_name": "Peuritar\u00ae"
+            "trade_name": "Peuritar\u00ae",
+            "group_name": "Sodium Dichloroisocyanurate"
         },
         {
-            "group_name": "Econazole Nitrate +Triamcenolone Acetonide",
-            "trade_name": "Pevitin\u00ae"
+            "trade_name": "Pevitin\u00ae",
+            "group_name": "Econazole Nitrate +Triamcenolone Acetonide"
         },
         {
-            "group_name": "Flucloxacillin",
-            "trade_name": "Phylopen\u00ae"
+            "trade_name": "Phylopen\u00ae",
+            "group_name": "Flucloxacillin"
         },
         {
-            "group_name": "Topiramate",
-            "trade_name": "Piramed\u00ae"
+            "trade_name": "Piramed\u00ae",
+            "group_name": "Topiramate"
         },
         {
-            "group_name": "Pitavastatin",
-            "trade_name": "PivaloTM"
+            "trade_name": "PivaloTM",
+            "group_name": "Pitavastatin"
         },
         {
-            "group_name": "Propiconazole",
-            "trade_name": "Potent\u00ae"
+            "trade_name": "Potent\u00ae",
+            "group_name": "Propiconazole"
         },
         {
-            "group_name": "Pretilachlor",
-            "trade_name": "Prechlor\u00ae"
+            "trade_name": "Prechlor\u00ae",
+            "group_name": "Pretilachlor"
         },
         {
-            "group_name": "Butachlor+Propanil",
-            "trade_name": "Prepona\u00ae"
+            "trade_name": "Prepona\u00ae",
+            "group_name": "Butachlor+Propanil"
         },
         {
-            "group_name": "Probiotic combination",
-            "trade_name": "ProbioTM"
+            "trade_name": "ProbioTM",
+            "group_name": "Probiotic combination"
         },
         {
-            "group_name": "Fluoxetine HCl",
-            "trade_name": "Prolert\u00ae"
+            "trade_name": "Prolert\u00ae",
+            "group_name": "Fluoxetine HCl"
         },
         {
-            "group_name": "Prochlorperazine Mesilate",
-            "trade_name": "Promtil\u00ae"
+            "trade_name": "Promtil\u00ae",
+            "group_name": "Prochlorperazine Mesilate"
         },
         {
-            "group_name": "Finsteride",
-            "trade_name": "Pronor\u00ae"
+            "trade_name": "Pronor\u00ae",
+            "group_name": "Finsteride"
         },
         {
-            "group_name": "Betamethasone + Salicylic Acid",
-            "trade_name": "ProsalicTM Lotion"
+            "trade_name": "ProsalicTM Lotion",
+            "group_name": "Betamethasone + Salicylic Acid"
         },
         {
-            "group_name": "Tenofovir Disoproxil Fumarate",
-            "trade_name": "Proxivir\u00ae"
+            "trade_name": "Proxivir\u00ae",
+            "group_name": "Tenofovir Disoproxil Fumarate"
         },
         {
-            "group_name": "Levocetirizine",
-            "trade_name": "Purotrol\u00ae"
+            "trade_name": "Purotrol\u00ae",
+            "group_name": "Levocetirizine"
         },
         {
-            "group_name": "Chlorpyrifos",
-            "trade_name": "Pychlorex\u00ae"
+            "trade_name": "Pychlorex\u00ae",
+            "group_name": "Chlorpyrifos"
         },
         {
-            "group_name": "Lansoprazole + Clarithromycin + Amoxicillin",
-            "trade_name": "Pylotrip\u00ae"
+            "trade_name": "Pylotrip\u00ae",
+            "group_name": "Lansoprazole + Clarithromycin + Amoxicillin"
         },
         {
-            "group_name": "Rabeprazole Sodium INN",
-            "trade_name": "Rabeca\u00ae"
+            "trade_name": "Rabeca\u00ae",
+            "group_name": "Rabeprazole Sodium INN"
         },
         {
-            "group_name": "Nalbuphine HCl",
-            "trade_name": "Radirif\u00ae"
+            "trade_name": "Radirif\u00ae",
+            "group_name": "Nalbuphine HCl"
         },
         {
-            "group_name": "Ranolazine",
-            "trade_name": "RanolinTM"
+            "trade_name": "RanolinTM",
+            "group_name": "Ranolazine"
         },
         {
-            "group_name": "Nitroglycerin",
-            "trade_name": "Rectocare\u00ae"
+            "trade_name": "Rectocare\u00ae",
+            "group_name": "Nitroglycerin"
         },
         {
-            "group_name": "Red clover Isoflavones 40 mg",
-            "trade_name": "RedclovTM"
+            "trade_name": "RedclovTM",
+            "group_name": "Red clover Isoflavones 40 mg"
         },
         {
-            "group_name": "Clarithromycin",
-            "trade_name": "Remac\u00ae"
+            "trade_name": "Remac\u00ae",
+            "group_name": "Clarithromycin"
         },
         {
-            "group_name": "Tacrolimus",
-            "trade_name": "Remus\u00ae"
+            "trade_name": "Remus\u00ae",
+            "group_name": "Tacrolimus"
         },
         {
-            "group_name": "Tibolone",
-            "trade_name": "Renorma\u00ae"
+            "trade_name": "Renorma\u00ae",
+            "group_name": "Tibolone"
         },
         {
-            "group_name": "Indapamide + Perindopril",
-            "trade_name": "Repres plus\u00ae"
+            "trade_name": "Repres plus\u00ae",
+            "group_name": "Indapamide + Perindopril"
         },
         {
-            "group_name": "Indapamide",
-            "trade_name": "Repres SR\u00ae"
+            "trade_name": "Repres SR\u00ae",
+            "group_name": "Indapamide"
         },
         {
-            "group_name": "Coenzyme Q10 (Ubidecarenone USP)",
-            "trade_name": "ResQTM"
+            "trade_name": "ResQTM",
+            "group_name": "Coenzyme Q10 (Ubidecarenone USP)"
         },
         {
-            "group_name": "Retapamulin",
-            "trade_name": "RetabacTM"
+            "trade_name": "RetabacTM",
+            "group_name": "Retapamulin"
         },
         {
-            "group_name": " ",
-            "trade_name": "RevatolTM"
+            "trade_name": "RevatolTM",
+            "group_name": " "
         },
         {
-            "group_name": "Valaciclovir",
-            "trade_name": "ReviraTM"
+            "trade_name": "ReviraTM",
+            "group_name": "Valaciclovir"
         },
         {
-            "group_name": "Beta Carotene + Vit. C + Vit. E",
-            "trade_name": "Rex\u00ae"
+            "trade_name": "Rex\u00ae",
+            "group_name": "Beta Carotene + Vit. C + Vit. E"
         },
         {
-            "group_name": "Rice based oral rehydration salt",
-            "trade_name": "Rice ORS\u00ae"
+            "trade_name": "Rice ORS\u00ae",
+            "group_name": "Rice based oral rehydration salt"
         },
         {
-            "group_name": "Ramipril",
-            "trade_name": "Ripril\u00ae"
+            "trade_name": "Ripril\u00ae",
+            "group_name": "Ramipril"
         },
         {
-            "group_name": "Risedronate Sodium",
-            "trade_name": "Risedon\u00ae"
+            "trade_name": "Risedon\u00ae",
+            "group_name": "Risedronate Sodium"
         },
         {
-            "group_name": "Risedronate Sodium & Calcium",
-            "trade_name": "RisedonTM Plus"
+            "trade_name": "RisedonTM Plus",
+            "group_name": "Risedronate Sodium & Calcium"
         },
         {
-            "group_name": "Rivaroxaban",
-            "trade_name": "RivaXaTM"
+            "trade_name": "RivaXaTM",
+            "group_name": "Rivaroxaban"
         },
         {
-            "group_name": "Ornidazole",
-            "trade_name": "Robic\u00ae"
+            "trade_name": "Robic\u00ae",
+            "group_name": "Ornidazole"
         },
         {
-            "group_name": "Rosuvastatin",
-            "trade_name": "Rosuva\u00ae"
+            "trade_name": "Rosuva\u00ae",
+            "group_name": "Rosuvastatin"
         },
         {
-            "group_name": "Rupatadine 10 mg",
-            "trade_name": "RupatrolTM"
+            "trade_name": "RupatrolTM",
+            "group_name": "Rupatadine 10 mg"
         },
         {
-            "group_name": "Ofloxacin",
-            "trade_name": "Rutix\u00ae"
+            "trade_name": "Rutix\u00ae",
+            "group_name": "Ofloxacin"
         },
         {
-            "group_name": "Sparfloxacin",
-            "trade_name": "Saga\u00ae"
+            "trade_name": "Saga\u00ae",
+            "group_name": "Sparfloxacin"
         },
         {
-            "group_name": "Salmeterol",
-            "trade_name": "Salmate\u00ae"
+            "trade_name": "Salmate\u00ae",
+            "group_name": "Salmeterol"
         },
         {
-            "group_name": "Nortriptyline + Fluphenazine",
-            "trade_name": "Sanit\u00ae"
+            "trade_name": "Sanit\u00ae",
+            "group_name": "Nortriptyline + Fluphenazine"
         },
         {
-            "group_name": "Permethrin",
-            "trade_name": "Scabex\u00ae"
+            "trade_name": "Scabex\u00ae",
+            "group_name": "Permethrin"
         },
         {
-            "group_name": "Omeprazole",
-            "trade_name": "Seclo\u00ae"
+            "trade_name": "Seclo\u00ae",
+            "group_name": "Omeprazole"
         },
         {
-            "group_name": "Secnidazole",
-            "trade_name": "Secnid\u00ae"
+            "trade_name": "Secnid\u00ae",
+            "group_name": "Secnidazole"
         },
         {
-            "group_name": "Glimepiride",
-            "trade_name": "Secrin\u00ae"
+            "trade_name": "Secrin\u00ae",
+            "group_name": "Glimepiride"
         },
         {
-            "group_name": "Diazepam",
-            "trade_name": "Sedil\u00ae"
+            "trade_name": "Sedil\u00ae",
+            "group_name": "Diazepam"
         },
         {
-            "group_name": "Desloratadine",
-            "trade_name": "Sedno\u00ae"
+            "trade_name": "Sedno\u00ae",
+            "group_name": "Desloratadine"
         },
         {
-            "group_name": "Dried Ferrous Sulphte + Folic acid + Thiamine Mononitra...",
-            "trade_name": "Servin\u00ae"
+            "trade_name": "Servin\u00ae",
+            "group_name": "Dried Ferrous Sulphte + Folic acid + Thiamine Mononitra..."
         },
         {
-            "group_name": "Sitagliptin+Metformin",
-            "trade_name": "Siglimet\u00ae"
+            "trade_name": "Siglimet\u00ae",
+            "group_name": "Sitagliptin+Metformin"
         },
         {
-            "group_name": "Sitagliptin+Metformin",
-            "trade_name": "SiglimetTM XR"
+            "trade_name": "SiglimetTM XR",
+            "group_name": "Sitagliptin+Metformin"
         },
         {
-            "group_name": "Sitagliptin",
-            "trade_name": "Siglita\u00ae"
+            "trade_name": "Siglita\u00ae",
+            "group_name": "Sitagliptin"
         },
         {
-            "group_name": "Milk Thistle",
-            "trade_name": "Silybin\u00ae"
+            "trade_name": "Silybin\u00ae",
+            "group_name": "Milk Thistle"
         },
         {
-            "group_name": "Simvastatin",
-            "trade_name": "Simacor\u00ae"
+            "trade_name": "Simacor\u00ae",
+            "group_name": "Simvastatin"
         },
         {
-            "group_name": "Sodium Chloride",
-            "trade_name": "Solo\u00ae"
+            "trade_name": "Solo\u00ae",
+            "group_name": "Sodium Chloride"
         },
         {
-            "group_name": "Sodium Chloride BP 0.9% w/v",
-            "trade_name": "SoloTM 0.9% IV"
+            "trade_name": "SoloTM 0.9% IV",
+            "group_name": "Sodium Chloride BP 0.9% w/v"
         },
         {
-            "group_name": "Sodium Chloride BP 0.9% w/v and Dextrose USP 5% w/v",
-            "trade_name": "SolodexTM IV"
+            "trade_name": "SolodexTM IV",
+            "group_name": "Sodium Chloride BP 0.9% w/v and Dextrose USP 5% w/v"
         },
         {
-            "group_name": "Naproxen",
-            "trade_name": "Sonap\u00ae"
+            "trade_name": "Sonap\u00ae",
+            "group_name": "Naproxen"
         },
         {
-            "group_name": "Meropenem",
-            "trade_name": "Specbac\u00ae"
+            "trade_name": "Specbac\u00ae",
+            "group_name": "Meropenem"
         },
         {
-            "group_name": "Minoxidil BP",
-            "trade_name": "SplendoraTM"
+            "trade_name": "SplendoraTM",
+            "group_name": "Minoxidil BP"
         },
         {
-            "group_name": "Chloramphenicol",
-            "trade_name": "SQ-Mycetin\u00ae Eye/Ear Drops"
+            "trade_name": "SQ-Mycetin\u00ae Eye/Ear Drops",
+            "group_name": "Chloramphenicol"
         },
         {
-            "group_name": "Zinc Sulphate Monohydrate",
-            "trade_name": "Square Zinc\u00ae"
+            "trade_name": "Square Zinc\u00ae",
+            "group_name": "Zinc Sulphate Monohydrate"
         },
         {
-            "group_name": "Strontium Ranelate",
-            "trade_name": "Stronel\u00ae"
+            "trade_name": "Stronel\u00ae",
+            "group_name": "Strontium Ranelate"
         },
         {
-            "group_name": "Atomoxetine",
-            "trade_name": "Suev 10\u00ae"
+            "trade_name": "Suev 10\u00ae",
+            "group_name": "Atomoxetine"
         },
         {
-            "group_name": "Salbutamol + Ipratropium Bromide",
-            "trade_name": "Sulprex MDI\u00ae"
+            "trade_name": "Sulprex MDI\u00ae",
+            "group_name": "Salbutamol + Ipratropium Bromide"
         },
         {
-            "group_name": "Salbutamol + Ipratropium Bromide",
-            "trade_name": "Sulprex Nebuliser Solution\u00ae"
+            "trade_name": "Sulprex Nebuliser Solution\u00ae",
+            "group_name": "Salbutamol + Ipratropium Bromide"
         },
         {
-            "group_name": "Salbutamol Sulphate",
-            "trade_name": "Sultolin HFA\u00ae"
+            "trade_name": "Sultolin HFA\u00ae",
+            "group_name": "Salbutamol Sulphate"
         },
         {
-            "group_name": "Salbutamol",
-            "trade_name": "Sultolin Nebuliser Solution\u00ae"
+            "trade_name": "Sultolin Nebuliser Solution\u00ae",
+            "group_name": "Salbutamol"
         },
         {
-            "group_name": "Salbutamol Sulphate",
-            "trade_name": "Sultolin Respirator Solution\u00ae"
+            "trade_name": "Sultolin Respirator Solution\u00ae",
+            "group_name": "Salbutamol Sulphate"
         },
         {
-            "group_name": "Salbutamol",
-            "trade_name": "Sultolin\u00ae"
+            "trade_name": "Sultolin\u00ae",
+            "group_name": "Salbutamol"
         },
         {
-            "group_name": "Salbutamol",
-            "trade_name": "Sultolin\u00ae Cozycap"
+            "trade_name": "Sultolin\u00ae Cozycap",
+            "group_name": "Salbutamol"
         },
         {
-            "group_name": "Dapoxetine Hydrochloride INN",
-            "trade_name": "SustenTM"
+            "trade_name": "SustenTM",
+            "group_name": "Dapoxetine Hydrochloride INN"
         },
         {
-            "group_name": "Pancreatin BP",
-            "trade_name": "Suzyme\u00ae"
+            "trade_name": "Suzyme\u00ae",
+            "group_name": "Pancreatin BP"
         },
         {
-            "group_name": "Ceftazidime",
-            "trade_name": "Tazid\u00ae"
+            "trade_name": "Tazid\u00ae",
+            "group_name": "Ceftazidime"
         },
         {
-            "group_name": "Piperacillin and Tazobactam",
-            "trade_name": "TazocilinTM"
+            "trade_name": "TazocilinTM",
+            "group_name": "Piperacillin and Tazobactam"
         },
         {
-            "group_name": "Ebastine BP",
-            "trade_name": "TebastTM"
+            "trade_name": "TebastTM",
+            "group_name": "Ebastine BP"
         },
         {
-            "group_name": "Mifepristone & Misoprostol",
-            "trade_name": "TerminexTM"
+            "trade_name": "TerminexTM",
+            "group_name": "Mifepristone & Misoprostol"
         },
         {
-            "group_name": "Tegaserod Hydrogen Maleate",
-            "trade_name": "Tesod\u00ae"
+            "trade_name": "Tesod\u00ae",
+            "group_name": "Tegaserod Hydrogen Maleate"
         },
         {
-            "group_name": "Tetracycline HCl",
-            "trade_name": "Tetrax\u00ae"
+            "trade_name": "Tetrax\u00ae",
+            "group_name": "Tetracycline HCl"
         },
         {
-            "group_name": "Levothyroxine Sodium",
-            "trade_name": "ThyrinTM"
+            "trade_name": "ThyrinTM",
+            "group_name": "Levothyroxine Sodium"
         },
         {
-            "group_name": "Salmeterol + Fluticasone ",
-            "trade_name": "TicametTM Cozycap"
+            "trade_name": "TicametTM Cozycap",
+            "group_name": "Salmeterol + Fluticasone "
         },
         {
-            "group_name": "Salmeterol & Fluticasone Propionate BP",
-            "trade_name": "TicametTM HFA"
+            "trade_name": "TicametTM HFA",
+            "group_name": "Salmeterol & Fluticasone Propionate BP"
         },
         {
-            "group_name": "Fluticasone propionate",
-            "trade_name": "Ticas\u00ae"
+            "trade_name": "Ticas\u00ae",
+            "group_name": "Fluticasone propionate"
         },
         {
-            "group_name": "Glucosamine Sulfate & Diacerein",
-            "trade_name": "Tilex\u00ae Max"
+            "trade_name": "Tilex\u00ae Max",
+            "group_name": "Glucosamine Sulfate & Diacerein"
         },
         {
-            "group_name": "Trimebutine Maleate ",
-            "trade_name": "Timotor\u00ae"
+            "trade_name": "Timotor\u00ae",
+            "group_name": "Trimebutine Maleate "
         },
         {
-            "group_name": "Diphenhydramine HCl+ Zn Acetate",
-            "trade_name": "Togent\u00ae"
+            "trade_name": "Togent\u00ae",
+            "group_name": "Diphenhydramine HCl+ Zn Acetate"
         },
         {
-            "group_name": "Hydrocortisone Acetate",
-            "trade_name": "Topicort\u00ae"
+            "trade_name": "Topicort\u00ae",
+            "group_name": "Hydrocortisone Acetate"
         },
         {
-            "group_name": "Ketorolac Tromethamine",
-            "trade_name": "Torax\u00ae"
+            "trade_name": "Torax\u00ae",
+            "group_name": "Ketorolac Tromethamine"
         },
         {
-            "group_name": "Muscle rub",
-            "trade_name": "TorelTM"
+            "trade_name": "TorelTM",
+            "group_name": "Muscle rub"
         },
         {
-            "group_name": "Etoricoxib",
-            "trade_name": "Tory\u00ae"
+            "trade_name": "Tory\u00ae",
+            "group_name": "Etoricoxib"
         },
         {
-            "group_name": "Levofloxacin",
-            "trade_name": "Trevox IV Infusion\u00ae"
+            "trade_name": "Trevox IV Infusion\u00ae",
+            "group_name": "Levofloxacin"
         },
         {
-            "group_name": "Levofloxacin",
-            "trade_name": "Trevox\u00ae"
+            "trade_name": "Trevox\u00ae",
+            "group_name": "Levofloxacin"
         },
         {
-            "group_name": "Triamcenolone Acetonide",
-            "trade_name": "Trispray\u00ae"
+            "trade_name": "Trispray\u00ae",
+            "group_name": "Triamcenolone Acetonide"
         },
         {
-            "group_name": "Pantoprazole",
-            "trade_name": "Trupan\u00ae"
+            "trade_name": "Trupan\u00ae",
+            "group_name": "Pantoprazole"
         },
         {
-            "group_name": "Raubasine + Almitrine Bismesylate",
-            "trade_name": "TruxilTM"
+            "trade_name": "TruxilTM",
+            "group_name": "Raubasine + Almitrine Bismesylate"
         },
         {
-            "group_name": "Amitryptyline HCl ",
-            "trade_name": "Tryptin\u00ae"
+            "trade_name": "Tryptin\u00ae",
+            "group_name": "Amitryptyline HCl "
         },
         {
-            "group_name": "Ulipristal Acetate",
-            "trade_name": "TulipTM"
+            "trade_name": "TulipTM",
+            "group_name": "Ulipristal Acetate"
         },
         {
-            "group_name": "Guaiphenesin + Pseudoephedrine + Triprolidine HCl",
-            "trade_name": "Tusca\u00ae"
+            "trade_name": "Tusca\u00ae",
+            "group_name": "Guaiphenesin + Pseudoephedrine + Triprolidine HCl"
         },
         {
-            "group_name": "Tolterodine Tartrate",
-            "trade_name": "UcolTM"
+            "trade_name": "UcolTM",
+            "group_name": "Tolterodine Tartrate"
         },
         {
-            "group_name": "Potassium Citrate & Citric Acid Monohydrate",
-            "trade_name": "UrisetTM"
+            "trade_name": "UrisetTM",
+            "group_name": "Potassium Citrate & Citric Acid Monohydrate"
         },
         {
-            "group_name": "Alfuzosin HCl ",
-            "trade_name": "Uriten\u00ae"
+            "trade_name": "Uriten\u00ae",
+            "group_name": "Alfuzosin HCl "
         },
         {
-            "group_name": "Nitrofurantoin USP",
-            "trade_name": "UrocureTM"
+            "trade_name": "UrocureTM",
+            "group_name": "Nitrofurantoin USP"
         },
         {
-            "group_name": "Sodium valproate+ Valproic acid",
-            "trade_name": "Valoate\u00ae"
+            "trade_name": "Valoate\u00ae",
+            "group_name": "Sodium valproate+ Valproic acid"
         },
         {
-            "group_name": "Cefpodoxime Proxetil",
-            "trade_name": "Vanprox\u00ae"
+            "trade_name": "Vanprox\u00ae",
+            "group_name": "Cefpodoxime Proxetil"
         },
         {
-            "group_name": "Enalapril Maleate",
-            "trade_name": "Vasopril\u00ae"
+            "trade_name": "Vasopril\u00ae",
+            "group_name": "Enalapril Maleate"
         },
         {
-            "group_name": " ",
-            "trade_name": "Verde\u00ae"
+            "trade_name": "Verde\u00ae",
+            "group_name": " "
         },
         {
-            "group_name": "Neostigmine Methyl Sulphate",
-            "trade_name": "Versia\u00ae"
+            "trade_name": "Versia\u00ae",
+            "group_name": "Neostigmine Methyl Sulphate"
         },
         {
-            "group_name": "Vildagliptin+Metformin",
-            "trade_name": "Viglimet\u00ae"
+            "trade_name": "Viglimet\u00ae",
+            "group_name": "Vildagliptin+Metformin"
         },
         {
-            "group_name": "Vildagliptin",
-            "trade_name": "Viglita\u00ae"
+            "trade_name": "Viglita\u00ae",
+            "group_name": "Vildagliptin"
         },
         {
-            "group_name": "Sildenafil Citrate INN",
-            "trade_name": "Vigorex\u00ae"
+            "trade_name": "Vigorex\u00ae",
+            "group_name": "Sildenafil Citrate INN"
         },
         {
-            "group_name": "Povidone Iodine",
-            "trade_name": "Viodin\u00ae"
+            "trade_name": "Viodin\u00ae",
+            "group_name": "Povidone Iodine"
         },
         {
-            "group_name": "Aciclovir",
-            "trade_name": "Virux Tablet\u00ae"
+            "trade_name": "Virux Tablet\u00ae",
+            "group_name": "Aciclovir"
         },
         {
-            "group_name": "Aciclovir",
-            "trade_name": "Virux\u00ae"
+            "trade_name": "Virux\u00ae",
+            "group_name": "Aciclovir"
         },
         {
-            "group_name": "Acyclovir USP",
-            "trade_name": "Virux\u00ae 500 IV Injection"
+            "trade_name": "Virux\u00ae 500 IV Injection",
+            "group_name": "Acyclovir USP"
         },
         {
-            "group_name": "Aciclovir BP 5% & Hydrocortisone BP 1%",
-            "trade_name": "Virux\u00ae HC"
+            "trade_name": "Virux\u00ae HC",
+            "group_name": "Aciclovir BP 5% & Hydrocortisone BP 1%"
         },
         {
-            "group_name": "Calcium Carbonate",
-            "trade_name": "Xcid\u00ae"
+            "trade_name": "Xcid\u00ae",
+            "group_name": "Calcium Carbonate"
         },
         {
-            "group_name": "Naproxen+Esomeprazole",
-            "trade_name": "Xenole\u00ae"
+            "trade_name": "Xenole\u00ae",
+            "group_name": "Naproxen+Esomeprazole"
         },
         {
-            "group_name": "Terbinafine HCL",
-            "trade_name": "Xfin\u00ae"
+            "trade_name": "Xfin\u00ae",
+            "group_name": "Terbinafine HCL"
         },
         {
-            "group_name": "Dex-Ibuprofen",
-            "trade_name": "Xflam\u00ae"
+            "trade_name": "Xflam\u00ae",
+            "group_name": "Dex-Ibuprofen"
         },
         {
-            "group_name": "Tenoxicam",
-            "trade_name": "Xten\u00ae"
+            "trade_name": "Xten\u00ae",
+            "group_name": "Tenoxicam"
         },
         {
-            "group_name": "Oxymetazoline",
-            "trade_name": "XyloconTM"
+            "trade_name": "XyloconTM",
+            "group_name": "Oxymetazoline"
         },
         {
-            "group_name": "Astaxanthin",
-            "trade_name": "ZanthinTM"
+            "trade_name": "ZanthinTM",
+            "group_name": "Astaxanthin"
         },
         {
-            "group_name": "Zinc Sulphate",
-            "trade_name": "Zesup\u00ae"
+            "trade_name": "Zesup\u00ae",
+            "group_name": "Zinc Sulphate"
         },
         {
-            "group_name": "Zinc sulphate Monohydrate +Carbonyl Iron+Folicacid+ Thi...",
-            "trade_name": "Zif Forte\u00ae"
+            "trade_name": "Zif Forte\u00ae",
+            "group_name": "Zinc sulphate Monohydrate +Carbonyl Iron+Folicacid+ Thi..."
         },
         {
-            "group_name": "Zinc Sulfate+Folic Acid+Carbonyl Iron",
-            "trade_name": "Zif-CI\u00ae"
+            "trade_name": "Zif-CI\u00ae",
+            "group_name": "Zinc Sulfate+Folic Acid+Carbonyl Iron"
         },
         {
-            "group_name": "Zinc Sulphate Monohydrate + Ferrous Sulphate + Folic Ac...",
-            "trade_name": "Zif\u00ae"
+            "trade_name": "Zif\u00ae",
+            "group_name": "Zinc Sulphate Monohydrate + Ferrous Sulphate + Folic Ac..."
         },
         {
-            "group_name": "Folic Acid and Zinc Sulfate Monohydrate",
-            "trade_name": "Zifolet\u00ae"
+            "trade_name": "Zifolet\u00ae",
+            "group_name": "Folic Acid and Zinc Sulfate Monohydrate"
         },
         {
-            "group_name": "Iron (III) Hydroxide Polymaltose Complex, Folic Acid, T...",
-            "trade_name": "Ziliron-B\u00ae"
+            "trade_name": "Ziliron-B\u00ae",
+            "group_name": "Iron (III) Hydroxide Polymaltose Complex, Folic Acid, T..."
         },
         {
-            "group_name": "Azithromycin",
-            "trade_name": "Zimax\u00ae"
+            "trade_name": "Zimax\u00ae",
+            "group_name": "Azithromycin"
         },
         {
-            "group_name": "Nitazoxanide",
-            "trade_name": "Zox\u00ae"
+            "trade_name": "Zox\u00ae",
+            "group_name": "Nitazoxanide"
         }
-    ],
-    "medicine_count": 474
+    ]
 }

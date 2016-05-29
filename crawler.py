@@ -30,9 +30,9 @@ def main():
         site_iterables = '' # incepta puts everything on one page
     elif re.search('ACME', option):
         # TODO: doing that in the next commit
-        
+        pass
     print('Please wait.')
-    print('Data from "{0!s}" will be recoded to "{1!s}.json".'.format(
+    print('Data from "{0!s}" will be saved to "{1!s}.json".'.format(
         option, company_file))
     
     count = download_data(
