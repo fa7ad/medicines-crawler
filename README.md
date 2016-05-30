@@ -1,10 +1,12 @@
 # medicines-crawler
-Get *trade names* and *pharmaceutical group names* from supported Pharmaceutical Companies by parsing their site.
+Get **trade names** and **pharmaceutical group names** from supported Pharmaceutical Companies by parsing their site.
 
-The output data will be available as JSON.
+**The output data will be available as JSON.**
+
 ---
 ## Supported Companies
 * ACME Laboratories Ltd.
+* BIOPHARMA Ltd. \* _(This one is a bit fragile)_
 * Incepta Pharmaceuticals Ltd.
 * Square Pharmaceuticals Ltd.
 

@@ -1,0 +1,927 @@
+{
+    "company": "BIOPHARMA Ltd.",
+    "medicines": [
+        {
+            "trade_name": "ACETA\u00a0120mg /5ml\u00a0   ",
+            "group_name": "Paracetamol BP"
+        },
+        {
+            "trade_name": "ACETA\u00a0120mg/5ml\u00a0   ",
+            "group_name": "Paracetamol BP"
+        },
+        {
+            "trade_name": "ACETA\u00a0500mg\u00a0   ",
+            "group_name": "Paracetamol BP"
+        },
+        {
+            "trade_name": "ACETA\u00a080mg/ml\u00a0   ",
+            "group_name": "Paracetamol BP"
+        },
+        {
+            "trade_name": "ACETA-X\u00a0500mg+65mg\u00a0   ",
+            "group_name": "Paracetamol BP+Caffein BP"
+        },
+        {
+            "trade_name": "ACIN\u00a0150mg\u00a0   ",
+            "group_name": "Ranitidine BP"
+        },
+        {
+            "trade_name": "ACIN\u00a0300mg\u00a0   ",
+            "group_name": "Ranitidine BP"
+        },
+        {
+            "trade_name": "ACIN\u00a075mg/5ml\u00a0   ",
+            "group_name": "Ranitidine USP"
+        },
+        {
+            "trade_name": "AMBROXOL\u00a015mg/5ml\u00a0   ",
+            "group_name": "Ambroxol HCl BP"
+        },
+        {
+            "trade_name": "AMBROXOL\u00a075mg\u00a0   ",
+            "group_name": "Ambroxol HCl BP"
+        },
+        {
+            "trade_name": "AMILAC\u00a0----\u00a0   ",
+            "group_name": "5% W/V Compostive Amino Acid + D-Sorbital + Electrolytes"
+        },
+        {
+            "trade_name": "AMIMAX\u00a0100mg\u00a0  ",
+            "group_name": "AMIKACIN BP"
+        },
+        {
+            "trade_name": "AMIMAX\u00a0500mg\u00a0   ",
+            "group_name": "AMIKACIN BP"
+        },
+        {
+            "trade_name": "AMOTID\u00a0100mg/ml\u00a0   ",
+            "group_name": "Amoxycilin BP"
+        },
+        {
+            "trade_name": "AMOTID\u00a0125mg/5ml\u00a0   ",
+            "group_name": "Amoxycilin BP"
+        },
+        {
+            "trade_name": "AMOTID\u00a0250mg\u00a0   ",
+            "group_name": "Amoxycilin BP"
+        },
+        {
+            "trade_name": "AMOTID\u00a0250mg/5mg\u00a0   ",
+            "group_name": "Amoxycilin BP"
+        },
+        {
+            "trade_name": "AMOTID\u00a0500mg\u00a0   ",
+            "group_name": "Amoxycilin BP"
+        },
+        {
+            "trade_name": "AQUTEAR\u00a0 5%\u00a0   ",
+            "group_name": "Povidone"
+        },
+        {
+            "trade_name": "ASCLOP\u00a075mg+75mg\u00a0   ",
+            "group_name": "Aspirin USP + Clopidogrel USP "
+        },
+        {
+            "trade_name": "ATINID\u00a0100mg/5ml\u00a0   ",
+            "group_name": "Nitazoxanide INN"
+        },
+        {
+            "trade_name": "ATINID\u00a0100mg/5ml\u00a0   ",
+            "group_name": "Nitazoxanide INN"
+        },
+        {
+            "trade_name": "ATINID\u00a0500gm\u00a0   ",
+            "group_name": "Nitazoxanide INN"
+        },
+        {
+            "trade_name": "AVERT\u00a050mg\u00a0   ",
+            "group_name": "Meclizine HCI USP"
+        },
+        {
+            "trade_name": "AVERT PLUS\u00a025mg+50mg\u00a0   ",
+            "group_name": "Meclizine HCI USP + Pyridoxine HCl USP"
+        },
+        {
+            "trade_name": "AZOLE\u00a0200mg/5ml\u00a0   ",
+            "group_name": "Albendazole USP"
+        },
+        {
+            "trade_name": "AZOLE\u00a0400mg\u00a0   ",
+            "group_name": "Albendazole USP"
+        },
+        {
+            "trade_name": "BACIFEN\u00a010mg\u00a0   ",
+            "group_name": "Baclofen BP"
+        },
+        {
+            "trade_name": "BACRON\u00a02%\u00a0   ",
+            "group_name": "Mupirocin USP"
+        },
+        {
+            "trade_name": "BENQUIL\u00a07.5mg\u00a0   ",
+            "group_name": "Midazolam BP"
+        },
+        {
+            "trade_name": "BENZIT\u00a00.5mg+10mg\u00a0   ",
+            "group_name": "Flupentixol BP+Melitracen INN"
+        },
+        {
+            "trade_name": "BESTCEF\u00a0100mg/5ml\u00a0   ",
+            "group_name": "Cefixime USP"
+        },
+        {
+            "trade_name": "BESTCEF\u00a0100mg/5ml\u00a0   ",
+            "group_name": "Cefixime USP"
+        },
+        {
+            "trade_name": "BESTCEF\u00a0200mg\u00a0   ",
+            "group_name": "Cefixime USP"
+        },
+        {
+            "trade_name": "BESTCEF\u00a0400mg\u00a0   ",
+            "group_name": "Cefixime USP"
+        },
+        {
+            "trade_name": "BIOCID\u00a0175mg+100mg/5ml\u00a0   ",
+            "group_name": "Aluminium Hydroxide BP +Magnesium Hydroxide BP"
+        },
+        {
+            "trade_name": "BIOCID\u00a0250mg+400mg\u00a0   ",
+            "group_name": "Aluminium Hydroxide BP +Magnesium Hydroxide BP"
+        },
+        {
+            "trade_name": "BIOCID PLUS\u00a0200mg+400mg+30mg\u00a0   ",
+            "group_name": "Aluminium Hydroxide BP +Magnesium Hydroxide BP+Simethicone USP"
+        },
+        {
+            "trade_name": "BIOCID PLUS\u00a0200mg+400mg+30mg\u00a0   ",
+            "group_name": "Aluminium Hydroxide BP +Magnesium Hydroxide BP+Simethicone USP"
+        },
+        {
+            "trade_name": "BIOCIN\u00a02mg/5ml\u00a0   ",
+            "group_name": "Chlorpheniramine BP"
+        },
+        {
+            "trade_name": "BIOCIN\u00a04mg\u00a0   ",
+            "group_name": "Chlorpheniramine BP"
+        },
+        {
+            "trade_name": "BIOPEN VK\u00a0125mg/5ml\u00a0   ",
+            "group_name": "Phenoxymethyl Penicillin BP"
+        },
+        {
+            "trade_name": "BIOPEN VK\u00a0125mg/5ml\u00a0   ",
+            "group_name": "Phenoxymethyl Penicillin BP"
+        },
+        {
+            "trade_name": "BIOPEN VK\u00a0250mg\u00a0   ",
+            "group_name": "Phenoxymethyl Penicillin BP"
+        },
+        {
+            "trade_name": "BIORON\u00a0200mg/5ml\u00a0   ",
+            "group_name": "Ferrous sulphate BP"
+        },
+        {
+            "trade_name": "BIOTREX\u00a0400mg/5ml\u00a0   ",
+            "group_name": "Levamisole BP"
+        },
+        {
+            "trade_name": "BIOTREX\u00a040mg/5ml\u00a0   ",
+            "group_name": "Levamisole BP"
+        },
+        {
+            "trade_name": "BIOTRIM\u00a0240mg/5ml\u00a0   ",
+            "group_name": "Cotrimoxazole BP"
+        },
+        {
+            "trade_name": "BIOTRIM\u00a0480mg\u00a0   ",
+            "group_name": "Cotrimoxazole BP"
+        },
+        {
+            "trade_name": "BIOTRIM\u00a0960mg\u00a0   ",
+            "group_name": "Cotrimoxazole BP"
+        },
+        {
+            "trade_name": "BIOVIT\u00a0----\u00a0   ",
+            "group_name": "Multivitamin"
+        },
+        {
+            "trade_name": "BIOVIT\u00a0\u00a0   ",
+            "group_name": "Vitamin B Complex"
+        },
+        {
+            "trade_name": "BIOVIT\u00a0----\u00a0   ",
+            "group_name": "Vitamin B Complex"
+        },
+        {
+            "trade_name": "BIOVIT\u00a0----\u00a0   ",
+            "group_name": "Vitamin B Complex"
+        },
+        {
+            "trade_name": "BIOVIT GOLD\u00a0----\u00a0   ",
+            "group_name": "Vitamin A to Z"
+        },
+        {
+            "trade_name": "BIOVIT GOLD\u00a0----\u00a0   ",
+            "group_name": "Vitamin A to Z"
+        },
+        {
+            "trade_name": "BIOVIT M\u00a0----\u00a0   ",
+            "group_name": "Multivitamin &Multimineral;"
+        },
+        {
+            "trade_name": "BIOVIT PLUS\u00a0----\u00a0   ",
+            "group_name": "Iron Polymaltose, Vitamin B Complex &Zinc;"
+        },
+        {
+            "trade_name": "BIOVIT PN\u00a0----\u00a0   ",
+            "group_name": "Prenatal Multivitamin &Multimineral;"
+        },
+        {
+            "trade_name": "BIOVIT PN\u00a0----\u00a0   ",
+            "group_name": "Prenatal Multivitamin &Multimineral;"
+        },
+        {
+            "trade_name": "BIOVIT SILVER\u00a0----\u00a0   ",
+            "group_name": "Vitamin A to Z with Lycopene"
+        },
+        {
+            "trade_name": "BIOVIT SILVER\u00a0----\u00a0   ",
+            "group_name": "Vitamin A to Z with Lycopene"
+        },
+        {
+            "trade_name": "BIOVIT_E\u00a0200mg\u00a0   ",
+            "group_name": "\u03b1-Tocophenyl BP"
+        },
+        {
+            "trade_name": "BIOZYL\u00a00.50%\u00a0   ",
+            "group_name": "Metrnidazole BP"
+        },
+        {
+            "trade_name": "BIOZYL\u00a0200mg/5ml\u00a0   ",
+            "group_name": "Metrnidazole BP"
+        },
+        {
+            "trade_name": "BIOZYL\u00a0400mg\u00a0   ",
+            "group_name": "Metrnidazole BP"
+        },
+        {
+            "trade_name": "BIRON PLUS\u00a0----\u00a0   ",
+            "group_name": "Iron,Zinc,&Folic; Acid"
+        },
+        {
+            "trade_name": "BROZE\u00a03mg\u00a0   ",
+            "group_name": "Bromazepam BP"
+        },
+        {
+            "trade_name": "CALM\u00a010mg\u00a0   ",
+            "group_name": "Clobazam BP"
+        },
+        {
+            "trade_name": "CARVED\u00a012.5mg\u00a0   ",
+            "group_name": "Carvedilol BP"
+        },
+        {
+            "trade_name": "CARVED\u00a06.25mg\u00a0   ",
+            "group_name": "Carvedilol BP"
+        },
+        {
+            "trade_name": "CEVALIN\u00a0250mg\u00a0   ",
+            "group_name": "Ascorbic Acid BP"
+        },
+        {
+            "trade_name": "CEVALIN\u00a0500mg\u00a0   ",
+            "group_name": "Ascorbic Acid BP"
+        },
+        {
+            "trade_name": "CHLOROVIS\u00a00.5%\u00a0   ",
+            "group_name": "Chloramphenicol"
+        },
+        {
+            "trade_name": "CIPCIN\u00a00.3%\u00a0   ",
+            "group_name": "Ciprofloxacin"
+        },
+        {
+            "trade_name": "CIPCIN\u00a0250mg\u00a0   ",
+            "group_name": "Ciprofloxacin USP"
+        },
+        {
+            "trade_name": "CIPCIN\u00a0250mg/5ml\u00a0   ",
+            "group_name": "Ciprofloxacin USP"
+        },
+        {
+            "trade_name": "CIPCIN\u00a0500mg\u00a0   ",
+            "group_name": "Ciprofloxacin USP"
+        },
+        {
+            "trade_name": "CIPCIN\u00a0750mg\u00a0   ",
+            "group_name": "Ciprofloxacin USP"
+        },
+        {
+            "trade_name": "CIPCIN-DX\u00a00.3% & 0.1%\u00a0   ",
+            "group_name": "Ciprofloxacin & Dexamethasone"
+        },
+        {
+            "trade_name": "CLOF\u00a0100mg\u00a0   ",
+            "group_name": "Aceclofenac BP"
+        },
+        {
+            "trade_name": "CLOMA\u00a00.5mg\u00a0   ",
+            "group_name": "Clonazepam USP"
+        },
+        {
+            "trade_name": "CLOMA\u00a02mg\u00a0   ",
+            "group_name": "Clonazepam USP"
+        },
+        {
+            "trade_name": "CLOTISON\u00a01%+1%\u00a0   ",
+            "group_name": "Clotrimazole BP+Hydrocortisone BP"
+        },
+        {
+            "trade_name": "DOLOREX\u00a0100mg\u00a0   ",
+            "group_name": "Tramadol HCI BP"
+        },
+        {
+            "trade_name": "DOLOREX\u00a0100mg\u00a0   ",
+            "group_name": "Tramadol HCI BP"
+        },
+        {
+            "trade_name": "DOLOREX\u00a050mg\u00a0   ",
+            "group_name": "Tramadol HCI BP"
+        },
+        {
+            "trade_name": "EMLON\u00a010mg\u00a0   ",
+            "group_name": "Amlodipine BP"
+        },
+        {
+            "trade_name": "EMLON\u00a05mg\u00a0   ",
+            "group_name": "Amlodipine BP"
+        },
+        {
+            "trade_name": "EMLON PLUS\u00a05mg+50mg\u00a0   ",
+            "group_name": "Amlodipine BP+Atenolol BP"
+        },
+        {
+            "trade_name": "ENAZOL PLUS\u00a01%+0.1%\u00a0   ",
+            "group_name": "Econazole Nitrate BP+ Triamcinolone Acetonide BP + Triamcinolone Acetonide BP"
+        },
+        {
+            "trade_name": "EROSA\u00a0125mg/5ml\u00a0   ",
+            "group_name": "Erythromycin USP"
+        },
+        {
+            "trade_name": "EROSA\u00a0250mg\u00a0   ",
+            "group_name": "Erythromycin USP"
+        },
+        {
+            "trade_name": "EROSA\u00a0250mg/5ml\u00a0   ",
+            "group_name": "Erythromycin USP"
+        },
+        {
+            "trade_name": "EROSA\u00a0500mg\u00a0   ",
+            "group_name": "Erythromycin USP"
+        },
+        {
+            "trade_name": "ESOCON\u00a020mg\u00a0   ",
+            "group_name": "Esomoprazole USP"
+        },
+        {
+            "trade_name": "ESOCON\u00a040mg\u00a0   ",
+            "group_name": "Esomoprazole USP"
+        },
+        {
+            "trade_name": "ESOGUT\u00a010mg\u00a0   ",
+            "group_name": "Domperidone BP"
+        },
+        {
+            "trade_name": "ESOGUT\u00a05mg/5ml\u00a0   ",
+            "group_name": "Domperidone BP"
+        },
+        {
+            "trade_name": "ESOGUT\u00a05mg/5ml\u00a0   ",
+            "group_name": "Domperidone BP"
+        },
+        {
+            "trade_name": "ETNOL\u00a0100mg\u00a0   ",
+            "group_name": "Atenolol BP"
+        },
+        {
+            "trade_name": "ETNOL\u00a050mg\u00a0   ",
+            "group_name": "Atenolol BP"
+        },
+        {
+            "trade_name": "EUPHOR\u00a010mg+0.5mg\u00a0   ",
+            "group_name": "Nortriptyline BP+Fluphenazine BP"
+        },
+        {
+            "trade_name": "FIVITA\u00a0----\u00a0   ",
+            "group_name": "Iron,FolicAcid ,Vit. C& Vit B Complex"
+        },
+        {
+            "trade_name": "FIVITA\u00a0----\u00a0   ",
+            "group_name": "Iron,FolicAcid ,Vit. C& Vit B Complex"
+        },
+        {
+            "trade_name": "FlURONE\u00a00.1%\u00a0   ",
+            "group_name": "Flurometholone"
+        },
+        {
+            "trade_name": "FORMET\u00a0500mg\u00a0   ",
+            "group_name": "Metformin HCI BP"
+        },
+        {
+            "trade_name": "FORMET\u00a0850mg\u00a0   ",
+            "group_name": "Metformin HCI BP"
+        },
+        {
+            "trade_name": "FREEGEST\u00a010mg\u00a0   ",
+            "group_name": "Montelucast BP"
+        },
+        {
+            "trade_name": "FREEGEST\u00a04mg\u00a0   ",
+            "group_name": "Montelucast BP"
+        },
+        {
+            "trade_name": "FREEGEST\u00a05mg\u00a0   ",
+            "group_name": "Montelucast BP"
+        },
+        {
+            "trade_name": "FUNGATA\u00a0150mg\u00a0   ",
+            "group_name": "Fluconazole USP"
+        },
+        {
+            "trade_name": "FUNGATA\u00a050mg\u00a0   ",
+            "group_name": "Fluconazole USP"
+        },
+        {
+            "trade_name": "FUNGATA\u00a050mg/5ml\u00a0   ",
+            "group_name": "Fluconazole USP"
+        },
+        {
+            "trade_name": "GLUCOSTAT\u00a080mg\u00a0   ",
+            "group_name": "Gliclazide BP"
+        },
+        {
+            "trade_name": "GOUTEX\u00a0100mg\u00a0   ",
+            "group_name": "Allopurinol BP"
+        },
+        {
+            "trade_name": "GOUTEX\u00a0300mg\u00a0   ",
+            "group_name": "Allopurinol BP"
+        },
+        {
+            "trade_name": "Immense 25\u00a025mg\u00a0   ",
+            "group_name": "Sildenafil INN"
+        },
+        {
+            "trade_name": "Immense 50\u00a050mg\u00a0   ",
+            "group_name": "Sildenafil INN"
+        },
+        {
+            "trade_name": "INFLADEX\u00a00.1%\u00a0   ",
+            "group_name": "Dexamethasone Sodium Phosphate"
+        },
+        {
+            "trade_name": "INFLADEX-TN\u00a00.1% & 0.3%\u00a0   ",
+            "group_name": "Dexamethasone & Tobramycin"
+        },
+        {
+            "trade_name": "INPRO\u00a020mg\u00a0   ",
+            "group_name": "Omeprazole USP"
+        },
+        {
+            "trade_name": "INPRO\u00a040mg\u00a0   ",
+            "group_name": "Omeprazole USP"
+        },
+        {
+            "trade_name": "INPRO\u00a040mg\u00a0   ",
+            "group_name": "Omeprazole USP"
+        },
+        {
+            "trade_name": "KETORIF\u00a00.025%\u00a0   ",
+            "group_name": "Ketotifen "
+        },
+        {
+            "trade_name": "KETORIF\u00a01mg\u00a0   ",
+            "group_name": "Ketotifen Fumarate BP"
+        },
+        {
+            "trade_name": "KETORIF\u00a01mg/5ml\u00a0   ",
+            "group_name": "Ketotifen Fumarate BP"
+        },
+        {
+            "trade_name": "KOFED\u00a0131.25mg/5ml\u00a0   ",
+            "group_name": "Psedoephedrine BP+Guaiphenesine BP+Triprolidine BP"
+        },
+        {
+            "trade_name": "LACTU\u00a03.35g/5ml\u00a0   ",
+            "group_name": "Lactulose BP"
+        },
+        {
+            "trade_name": "LACTU\u00a03.35g/5ml\u00a0   ",
+            "group_name": "Lactulose BP"
+        },
+        {
+            "trade_name": "LIFCIN\u00a00.5%\u00a0   ",
+            "group_name": "Levofloxacin INN"
+        },
+        {
+            "trade_name": "LIFCIN\u00a0125mg/5ml\u00a0   ",
+            "group_name": "Levofloxacin INN"
+        },
+        {
+            "trade_name": "LIFCIN\u00a0500mg\u00a0   ",
+            "group_name": "Levofloxacin INN"
+        },
+        {
+            "trade_name": "LIFCIN\u00a0750mg\u00a0   ",
+            "group_name": "Levofloxacin INN"
+        },
+        {
+            "trade_name": "LIFCIN 1.5\u00a01.5%\u00a0   ",
+            "group_name": "Levofloxacin"
+        },
+        {
+            "trade_name": "LOPO\u00a025mg\u00a0   ",
+            "group_name": "Losartan Potassium USP"
+        },
+        {
+            "trade_name": "LOPO\u00a050mg\u00a0   ",
+            "group_name": "Losartan Potassium USP"
+        },
+        {
+            "trade_name": "LOPO PLUS\u00a050mg +12.5mg\u00a0   ",
+            "group_name": "Losartan Potassium USP + Hydrochlothiazide BP"
+        },
+        {
+            "trade_name": "LORFAST\u00a010mg\u00a0   ",
+            "group_name": "Loratadine USP"
+        },
+        {
+            "trade_name": "LORFAST\u00a05mg/5ml\u00a0   ",
+            "group_name": "Loratadine USP"
+        },
+        {
+            "trade_name": "MACZITH\u00a0200mg/5ml\u00a0   ",
+            "group_name": "Azithromycin USP"
+        },
+        {
+            "trade_name": "MACZITH\u00a0200mg/5ml\u00a0   ",
+            "group_name": "Azithromycin USP"
+        },
+        {
+            "trade_name": "MACZITH\u00a0250mg\u00a0   ",
+            "group_name": "Azithromycin USP"
+        },
+        {
+            "trade_name": "MACZITH\u00a0500mg\u00a0   ",
+            "group_name": "Azithromycin USP"
+        },
+        {
+            "trade_name": "MEXIDERM\u00a00.10%\u00a0   ",
+            "group_name": "Betamethasone Valerate BP"
+        },
+        {
+            "trade_name": "MEXIDERM-N\u00a00.1%+0.5%\u00a0   ",
+            "group_name": "Betamethasone Valerate BP"
+        },
+        {
+            "trade_name": "MEXTIL\u00a01.5gm\u00a0   ",
+            "group_name": "Cefuroxime Axtel BP"
+        },
+        {
+            "trade_name": "MEXTIL\u00a0125mg\u00a0   ",
+            "group_name": "Cefuroxime Axtel BP"
+        },
+        {
+            "trade_name": "MEXTIL\u00a0125mg/5ml\u00a0   ",
+            "group_name": "Cefuroxime Axtel BP"
+        },
+        {
+            "trade_name": "MEXTIL\u00a0250mg\u00a0   ",
+            "group_name": "Cefuroxime Axtel BP"
+        },
+        {
+            "trade_name": "MEXTIL\u00a0250mg\u00a0   ",
+            "group_name": "Cefuroxime Axtel BP"
+        },
+        {
+            "trade_name": "MEXTIL\u00a0250mg/5ml\u00a0   ",
+            "group_name": "Cefuroxime Axtel BP"
+        },
+        {
+            "trade_name": "MEXTIL\u00a0500mg\u00a0   ",
+            "group_name": "Cefuroxime Axtel BP"
+        },
+        {
+            "trade_name": "MEXTIL\u00a0750mg\u00a0   ",
+            "group_name": "Cefuroxime Axtel BP"
+        },
+        {
+            "trade_name": "MOXIF\u00a00.5%\u00a0   ",
+            "group_name": "Moxifloxacin"
+        },
+        {
+            "trade_name": "MUCUT\u00a04mg/5ml\u00a0   ",
+            "group_name": "Bromhexine HCI BP"
+        },
+        {
+            "trade_name": "NEUREP\u00a0----\u00a0   ",
+            "group_name": "Vitamin B1,B6 & B12"
+        },
+        {
+            "trade_name": "NUBA\u00a00.5%+500IU\u00a0   ",
+            "group_name": "Neomycin Sulphate BP  + Bacitracin Zinc BP"
+        },
+        {
+            "trade_name": "NUBA PLUS\u00a00.35% + 400 IU + 5000IU\u00a0   ",
+            "group_name": "Neomycin Sulphate BP +Bacitracin Zinc BP  + Polymixin B Sulphate BP"
+        },
+        {
+            "trade_name": "OCUFLOX\u00a00.3%\u00a0   ",
+            "group_name": "Lomefloxacin"
+        },
+        {
+            "trade_name": "OLARIF\u00a00.1%\u00a0   ",
+            "group_name": "Olopatadine"
+        },
+        {
+            "trade_name": "ORTHOCAL\u00a0500gm\u00a0   ",
+            "group_name": "Calcium Carbonate USP"
+        },
+        {
+            "trade_name": "ORTHOCAL D\u00a0500mg+200IU\u00a0   ",
+            "group_name": "Calcium Carbonate USP+Vitamin D3"
+        },
+        {
+            "trade_name": "ORTHOCAL D\u00a0500mg+200IU\u00a0   ",
+            "group_name": "Calcium Carbonate USP+Vitamin D3"
+        },
+        {
+            "trade_name": "PANPRO\u00a020mg\u00a0   ",
+            "group_name": "Pantaprazole INN"
+        },
+        {
+            "trade_name": "PANPRO\u00a040mg\u00a0   ",
+            "group_name": "Pantaprazole INN"
+        },
+        {
+            "trade_name": "PANPRO\u00a040mg\u00a0   ",
+            "group_name": "Pantaprazole INN"
+        },
+        {
+            "trade_name": "Penfil 10\u00a010mg\u00a0   ",
+            "group_name": "Tadalafil INN"
+        },
+        {
+            "trade_name": "Penfil 20\u00a020mg\u00a0   ",
+            "group_name": "Tadalafil INN"
+        },
+        {
+            "trade_name": "PERILAC\u00a00.5%\u00a0   ",
+            "group_name": "Ketorolac Tromethamine"
+        },
+        {
+            "trade_name": "PERILAC\u00a010mg\u00a0   ",
+            "group_name": "Ketorolac Tromethamine BP"
+        },
+        {
+            "trade_name": "PERILAC\u00a010mg & 30mg\u00a0   ",
+            "group_name": "Ketorolac Tromethamine BP"
+        },
+        {
+            "trade_name": "PHENOBA\u00a030mg\u00a0   ",
+            "group_name": "Phenobarbitone BP"
+        },
+        {
+            "trade_name": "PHENOBA\u00a060mg\u00a0   ",
+            "group_name": "Phenobarbitone BP"
+        },
+        {
+            "trade_name": "R-PIL\u00a01.25mg\u00a0   ",
+            "group_name": "Ramipril BP"
+        },
+        {
+            "trade_name": "R-PIL\u00a02.5mg\u00a0   ",
+            "group_name": "Ramipril BP"
+        },
+        {
+            "trade_name": "R-PIL\u00a05mg\u00a0   ",
+            "group_name": "Ramipril BP"
+        },
+        {
+            "trade_name": "RELVIS\u00a050mg\u00a0   ",
+            "group_name": "Tiemonium Methyl Sulfate INN"
+        },
+        {
+            "trade_name": "RELVIS\u00a05mg/2ml\u00a0   ",
+            "group_name": "Tiemonium Methyl Sulfate INN"
+        },
+        {
+            "trade_name": "RELYE\u00a00.09%\u00a0   ",
+            "group_name": "Bromfenac"
+        },
+        {
+            "trade_name": "REVISTER\u00a0125mg/5ml\u00a0   ",
+            "group_name": "Flcloxacillin BP"
+        },
+        {
+            "trade_name": "REVISTER\u00a0250mg\u00a0   ",
+            "group_name": "Flcloxacillin BP"
+        },
+        {
+            "trade_name": "REVISTER\u00a0500mg\u00a0   ",
+            "group_name": "Flcloxacillin BP"
+        },
+        {
+            "trade_name": "RINOTIN\u00a05mg\u00a0   ",
+            "group_name": "Levocetirizine Dihydrochloride INN"
+        },
+        {
+            "trade_name": "SALBU\u00a02mg\u00a0   ",
+            "group_name": "Salbutamol BP"
+        },
+        {
+            "trade_name": "SALBU\u00a02mg/5ml\u00a0   ",
+            "group_name": "Salbutamol BP"
+        },
+        {
+            "trade_name": "SALBU\u00a02mg/5ml\u00a0   ",
+            "group_name": "Salbutamol BP"
+        },
+        {
+            "trade_name": "SALBU\u00a04mg\u00a0   ",
+            "group_name": "Salbutamol BP"
+        },
+        {
+            "trade_name": "SCAPER\u00a05%\u00a0   ",
+            "group_name": "Permethrin BP"
+        },
+        {
+            "trade_name": "SCAPER\u00a05%\u00a0   ",
+            "group_name": "Permethrin BP"
+        },
+        {
+            "trade_name": "SUPRACEF\u00a0100mg/ml\u00a0   ",
+            "group_name": "Cephradine BP"
+        },
+        {
+            "trade_name": "SUPRACEF\u00a0125mg/5ml\u00a0   ",
+            "group_name": "Cephradine BP"
+        },
+        {
+            "trade_name": "SUPRACEF\u00a01gm\u00a0   ",
+            "group_name": "Cephradine BP"
+        },
+        {
+            "trade_name": "SUPRACEF\u00a0250mg\u00a0   ",
+            "group_name": "Cephradine BP"
+        },
+        {
+            "trade_name": "SUPRACEF\u00a0250mg\u00a0   ",
+            "group_name": "Cephradine BP"
+        },
+        {
+            "trade_name": "SUPRACEF\u00a0250mg/5ml\u00a0   ",
+            "group_name": "Cephradine BP"
+        },
+        {
+            "trade_name": "SUPRACEF\u00a0500mg\u00a0   ",
+            "group_name": "Cephradine BP"
+        },
+        {
+            "trade_name": "SUPRACEF\u00a0500mg\u00a0   ",
+            "group_name": "Cephradine BP"
+        },
+        {
+            "trade_name": "SUPRALEX\u00a0125mg/5ml\u00a0   ",
+            "group_name": "Cephalexin BP"
+        },
+        {
+            "trade_name": "SUPRALEX\u00a0250mg\u00a0   ",
+            "group_name": "Cephalexin BP"
+        },
+        {
+            "trade_name": "SUPRALEX\u00a0500mg\u00a0   ",
+            "group_name": "Cephalexin BP"
+        },
+        {
+            "trade_name": "TEARIN 0.3\u00a00.3%\u00a0   ",
+            "group_name": "Hypromellose"
+        },
+        {
+            "trade_name": "TEARIN 0.5\u00a00.5%\u00a0   ",
+            "group_name": "Hypromellose"
+        },
+        {
+            "trade_name": "TERMIDER\u00a01%\u00a0   ",
+            "group_name": "Terbinafine HCI INN "
+        },
+        {
+            "trade_name": "TERMIDER\u00a01%\u00a0   ",
+            "group_name": "Terbinafine HCI INN "
+        },
+        {
+            "trade_name": "TOLPA\u00a0100mg\u00a0   ",
+            "group_name": "Tolperisone INN"
+        },
+        {
+            "trade_name": "TOP\u00a0100mg\u00a0   ",
+            "group_name": "Ketoprofen BP"
+        },
+        {
+            "trade_name": "TOP\u00a050mg\u00a0   ",
+            "group_name": "Ketoprofen BP"
+        },
+        {
+            "trade_name": "TROVA\u00a010mg\u00a0   ",
+            "group_name": "Atorvastastatin Calcium INN"
+        },
+        {
+            "trade_name": "TROVA\u00a020mg\u00a0   ",
+            "group_name": "Atorvastastatin Calcium INN"
+        },
+        {
+            "trade_name": "UROSPIN\u00a050mg+20mg\u00a0   ",
+            "group_name": "Spironolactone USP+FuresemideUSP"
+        },
+        {
+            "trade_name": "VITAFORCE\u00a0-----\u00a0   ",
+            "group_name": "Antioxidant"
+        },
+        {
+            "trade_name": "VITAFORCE-S\u00a0-----\u00a0   ",
+            "group_name": "Super antioxidant"
+        },
+        {
+            "trade_name": "VITAFORCE-S\u00a0-----\u00a0   ",
+            "group_name": "Super antioxidant"
+        },
+        {
+            "trade_name": "VOLCAN\u00a050mg\u00a0   ",
+            "group_name": "Diclofenac Sodium BP"
+        },
+        {
+            "trade_name": "VOLCAN SR\u00a0100mg\u00a0   ",
+            "group_name": "Diclofenac Sodium BP"
+        },
+        {
+            "trade_name": "VOLCAN TR\u00a0100mg\u00a0   ",
+            "group_name": "Diclofenac Sodium BP"
+        },
+        {
+            "trade_name": "WINNER\u00a01gm\u00a0   ",
+            "group_name": "Ceftriaxone Sodium USP"
+        },
+        {
+            "trade_name": "WINNER\u00a0250mg\u00a0   ",
+            "group_name": "Ceftriaxone Sodium USP"
+        },
+        {
+            "trade_name": "WINNER\u00a02gm\u00a0   ",
+            "group_name": "Ceftriaxone Sodium USP"
+        },
+        {
+            "trade_name": "WINNER\u00a0500mg\u00a0   ",
+            "group_name": "Ceftriaxone Sodium USP"
+        },
+        {
+            "trade_name": "XDERM\u00a00.05%\u00a0   ",
+            "group_name": "Clobetasol Propionate USP"
+        },
+        {
+            "trade_name": "XILOL\u00a00.5%\u00a0   ",
+            "group_name": "Timolol"
+        },
+        {
+            "trade_name": "XILOL-B\u00a00.2% & 0.5%\u00a0   ",
+            "group_name": "Brimonidine Tartrate"
+        },
+        {
+            "trade_name": "XITOB\u00a00.3%\u00a0   ",
+            "group_name": "Tobramycin"
+        },
+        {
+            "trade_name": "ZIDIMAX\u00a01.5gm\u00a0   ",
+            "group_name": "Ceftazidime BP"
+        },
+        {
+            "trade_name": "ZIDIMAX\u00a0250mg\u00a0   ",
+            "group_name": "Ceftazidime BP"
+        },
+        {
+            "trade_name": "ZIDIMAX\u00a0500mg\u00a0   ",
+            "group_name": "Ceftazidime BP"
+        },
+        {
+            "trade_name": "ZINGA\u00a010mg/5ml\u00a0   ",
+            "group_name": "Zinc sulphate USP"
+        },
+        {
+            "trade_name": "ZINGA\u00a020mg\u00a0   ",
+            "group_name": "Zinc sulphate USP"
+        }
+    ],
+    "medicine_count": 230,
+    "website": "http://biopharmabd.com"
+}

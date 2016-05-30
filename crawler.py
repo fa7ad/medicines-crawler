@@ -12,7 +12,7 @@ import re
 def main():
     """CLI launcher for the crawler"""
     title = "Choose a pharpaceutical company."
-    options = ["Square", "ACME", "Incepta"]
+    options = ["Square", "ACME", "Incepta", "Biopharma"]
     indicator = '>>>'
     option, _ = pick(options, title, indicator=indicator)
     count = 0
@@ -34,6 +34,12 @@ def main():
         company_file = 'incepta_pharma'
         company_name = 'Incepta Pharmaceuticals Ltd.'
         company_site = 'http://inceptapharma.com'
+        site_iterables = ''
+    elif re.search('Biopharma', option):
+        from parsers.biopharma import biopharma_parser as company_parser
+        company_file = 'biopharma'
+        company_name = 'BIOPHARMA Ltd.'
+        company_site = 'http://biopharmabd.com'
         site_iterables = ''
 
     print('Please wait.')
