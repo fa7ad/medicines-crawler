@@ -1,5 +1,5 @@
 """
-Parser for square pharmaceuticals
+Parser for ACME Laboratories
 """
 from bs4 import BeautifulSoup
 from random import randint as rand
@@ -7,8 +7,8 @@ import requests
 import time
 
 
-def square_parser(characters):
-    """Parse records from square pharma
+def acme_parser(characters):
+    """Parse records from acme global
 
     Args:
         characters: characters to loop through the url
@@ -17,9 +17,9 @@ def square_parser(characters):
         2 item tuple containing all the meds as a list and a count of all meds
     """
     link = (
-        'http://squarepharma.com.bd/'
-        'products-by-tradename.php'
-        '?type=trade&char={0!s}')
+        'http://acmeglobal.com/acme/'
+        'wp-content/themes/acme/trade_check.php'
+        '?initchar_trade={0!s}&divname_trade=human')
     meds = []
 
     for character in characters:
@@ -46,12 +46,12 @@ def parse_char(link, character):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    items = soup.find_all("div", {"class": "products-holder"})
+    items = soup.find_all("div", {"class": "klasik-pf-text"})
     records = []
 
     for item in items:
-        med_name = item.contents[2].text
-        med_group = item.contents[4].text
+        med_name = item.h3.a.span.text
+        med_group = item.find('div', {'class': 'textcontainer'}).text
         med = {
             'trade_name': med_name,
             'group_name': med_group
