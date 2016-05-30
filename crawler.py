@@ -12,7 +12,7 @@ import re
 def main():
     """CLI launcher for the crawler"""
     title = "Choose a pharpaceutical company."
-    options = ["Square", "ACME"]
+    options = ["Square", "ACME", "Incepta"]
     indicator = '>>>'
     option, _ = pick(options, title, indicator=indicator)
     count = 0
@@ -30,13 +30,11 @@ def main():
         company_site = 'http://acmeglobal.com/acme'
         site_iterables = list(alphabet)
     elif re.search('Incepta', option):
-        pass
-        # TODO: doing that in the next commit
-        # from parsers.square_pharma import square_parser as company_parser
-        # company_file = 'incepta_pharma'
-        # company_name = 'Incepta Pharmaceuticals Ltd.'
-        # company_site = 'http://inceptapharma.com'
-        # site_iterables = '' # incepta puts everything on one page
+        from parsers.incepta_pharma import incepta_parser as company_parser
+        company_file = 'incepta_pharma'
+        company_name = 'Incepta Pharmaceuticals Ltd.'
+        company_site = 'http://inceptapharma.com'
+        site_iterables = ''
 
     print('Please wait.')
     print('Data from "{0!s}" will be saved to "{1!s}.json".'.format(

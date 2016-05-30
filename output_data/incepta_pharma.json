@@ -1,0 +1,1771 @@
+{
+    "medicines": [
+        {
+            "group_name": "Dexketoprofen",
+            "trade_name": "Actidex"
+        },
+        {
+            "group_name": "Hydrochlorothiazide tablet",
+            "trade_name": "Acuren"
+        },
+        {
+            "group_name": "Adapalene BP 0.1% & Benzoyl peroxide BP 2.5% gel",
+            "trade_name": "Adaben Duo Gel"
+        },
+        {
+            "group_name": "Orlistat INN 120 mg capsules",
+            "trade_name": "Adiponil"
+        },
+        {
+            "group_name": "Cefadroxil\r\nCapsule 500 mg\r\nPowder for suspension\r\nPowder for paediatric drops\r\n",
+            "trade_name": "Adora"
+        },
+        {
+            "group_name": "Adrenaline 1 mg/ml IV, IM, SC injection\r\n",
+            "trade_name": "Adrinor"
+        },
+        {
+            "group_name": "Alcaftadine 2.5 mg Eye Drops",
+            "trade_name": "Alcafta  Sterile Eye Drops"
+        },
+        {
+            "group_name": "Pheniramine maleate syrup",
+            "trade_name": "Alervil"
+        },
+        {
+            "group_name": "Allylestrenol 5 mg Tablet",
+            "trade_name": "Alestor"
+        },
+        {
+            "group_name": "Alfuzosin Hydrochloride XR tablet",
+            "trade_name": "Alfasin XR"
+        },
+        {
+            "group_name": "Sodium Alginate & Potassium Bicarbonate Tablet & Suspension",
+            "trade_name": "Algicid"
+        },
+        {
+            "group_name": "Iron, Folic Acid, B-Vitamins & Vitamin-C capsule",
+            "trade_name": "Alneed"
+        },
+        {
+            "group_name": "Iron Polymaltose Complex, Folic Acid, Zinc & Vitamin B Complex capsule",
+            "trade_name": "Alneed Gold"
+        },
+        {
+            "group_name": "Zinc, Iron, Folic Acid, B-vitamins & Vitamin-C capsule",
+            "trade_name": "Alneed plus"
+        },
+        {
+            "group_name": "Raloxifene Hydrochloride 60 mg tablet",
+            "trade_name": "Aloxif"
+        },
+        {
+            "group_name": "Allopurinol tablet",
+            "trade_name": "Alurol"
+        },
+        {
+            "group_name": "Ambroxol hydrochloride",
+            "trade_name": "Ambolyt"
+        },
+        {
+            "group_name": "Donepezil Hydrochloride tablet",
+            "trade_name": "Ameloss"
+        },
+        {
+            "group_name": "Iopamidol USP",
+            "trade_name": "Amidol"
+        },
+        {
+            "group_name": "Amikacin injection",
+            "trade_name": "Amikin"
+        },
+        {
+            "group_name": "Amlodipine & Valsartan tablet",
+            "trade_name": "Amlosartan"
+        },
+        {
+            "group_name": "Amlodipine tablet",
+            "trade_name": "Amlotab"
+        },
+        {
+            "group_name": "Thiopental Sodium USP",
+            "trade_name": "Anestho"
+        },
+        {
+            "group_name": "Isosorbide-5-Mononitrate",
+            "trade_name": "Angifix"
+        },
+        {
+            "group_name": "Apalene 0.1% Cream",
+            "trade_name": "Apalene"
+        },
+        {
+            "group_name": "Polyethylene glycol powder for solution",
+            "trade_name": "Aqualax"
+        },
+        {
+            "group_name": "Expectorant Syrup",
+            "trade_name": "Aquaphen"
+        },
+        {
+            "group_name": "Aripiprazole tablet",
+            "trade_name": "Aripra"
+        },
+        {
+            "group_name": "Lyophilized Vitamin-B complex & Vitamin C IV Infusion",
+            "trade_name": "Aritone IV"
+        },
+        {
+            "group_name": "Vitamin-B Complex & Zinc Syrup",
+            "trade_name": "Aritone Z"
+        },
+        {
+            "group_name": "Iron, Vitamin-B Complex & Zinc Syrup",
+            "trade_name": "Aritone ZI"
+        },
+        {
+            "group_name": "Theophylline BP 300 mg & 400 mg sustained release tablet",
+            "trade_name": "Arofil"
+        },
+        {
+            "group_name": "Citalopram tablet",
+            "trade_name": "Arpolax"
+        },
+        {
+            "group_name": "Artemether-Lumefantrine tablet",
+            "trade_name": "Artemet"
+        },
+        {
+            "group_name": "Butamirate Citrate INN ",
+            "trade_name": "Askorel"
+        },
+        {
+            "group_name": "Vitamin E, Vitamin C, Lutein, Zinc & Copper capsule",
+            "trade_name": "Azecol"
+        },
+        {
+            "group_name": "Azelastine Hydrochloride BP",
+            "trade_name": "Azelast"
+        },
+        {
+            "group_name": "Aztreonam 1 gm for Injection (Sterile).",
+            "trade_name": "Azonam"
+        },
+        {
+            "group_name": "Astaxanthin 4 mg Capsule",
+            "trade_name": "AztaCap"
+        },
+        {
+            "group_name": "Phenobarbital BP",
+            "trade_name": "Barbit"
+        },
+        {
+            "group_name": "Entecavir 0.5 & 1 mg Tablet",
+            "trade_name": "Barcavir"
+        },
+        {
+            "group_name": "Benazepril plus Amlodipine",
+            "trade_name": "Benadip"
+        },
+        {
+            "group_name": "Besifloxacin  Hydrochloride INN ",
+            "trade_name": "Besiven Eye Drops"
+        },
+        {
+            "group_name": "Betamethasone 0.1% & Neomycin Sulphate 0.5%",
+            "trade_name": "Betaderm N Ointment"
+        },
+        {
+            "group_name": "Betamethasone 0.1%",
+            "trade_name": "Betaderm Ointment"
+        },
+        {
+            "group_name": "Betamethasone 0.05 % & Salicylic  Acid 2%",
+            "trade_name": "Betamesal Scalp Lotion"
+        },
+        {
+            "group_name": "Bepotastine Besilate 1.5% 5 ml Sterile Eye Drops",
+            "trade_name": "Betastin Eye Drops"
+        },
+        {
+            "group_name": "Ciprofloxacin Tablet, Suspensio & IV Infusion",
+            "trade_name": "Beuflox"
+        },
+        {
+            "group_name": "Ciprofloxacin 0.3 % ",
+            "trade_name": "Beuflox  Eye/Ear Drops"
+        },
+        {
+            "group_name": "Ciprofloxacin 0.3% & Dexamethasone 0.1%\r\n",
+            "trade_name": "Beuflox-D Eye/Ear Drops"
+        },
+        {
+            "group_name": "Calcium Folinate 15 mg",
+            "trade_name": "Biofol"
+        },
+        {
+            "group_name": "Bisoprolol Fumarate 2.5 & 5 mg Tablet",
+            "trade_name": "Bisopro"
+        },
+        {
+            "group_name": "Bisoprolol fumarate and Hydrochlorothiazide tablet",
+            "trade_name": "Bisopro Plus"
+        },
+        {
+            "group_name": "Ibandronic Acid 150 mg",
+            "trade_name": "Bone-Guard"
+        },
+        {
+            "group_name": "Alendronic acid-Colecalciferol tablet",
+            "trade_name": "Bonemass D"
+        },
+        {
+            "group_name": "Doxofylline INN Tablet",
+            "trade_name": "Brezofil"
+        },
+        {
+            "group_name": "Brimonidine Tartrate 0.2%",
+            "trade_name": "Brimodin Eye Drops"
+        },
+        {
+            "group_name": "Brimonidine Tartrate 0.2% and Timolol 0.5% Sterile Eye Drops",
+            "trade_name": "Brimodin Plus"
+        },
+        {
+            "group_name": "Budesonide and Formoterol Fumarate Dihydrate Convicap",
+            "trade_name": "Budemet ConviCap"
+        },
+        {
+            "group_name": "Budesonide BP",
+            "trade_name": "Budicort  Nebuliser"
+        },
+        {
+            "group_name": "Budesonide BP",
+            "trade_name": "Budicort Nasal Spray"
+        },
+        {
+            "group_name": "Bumetanide 1 mg, 5 mg Tablet and 2 mg/4 ml IV/IM Injection",
+            "trade_name": "Bumecard"
+        },
+        {
+            "group_name": "Calcium tablet",
+            "trade_name": "Calcicar"
+        },
+        {
+            "group_name": "Calcium & Vitamin-D",
+            "trade_name": "Calvimax"
+        },
+        {
+            "group_name": "Vitamin C, D, and Folic Acid",
+            "trade_name": "Cardivit"
+        },
+        {
+            "group_name": "Carvedilol 6.25, 12.5 & 25 mg tablet",
+            "trade_name": "Carvista"
+        },
+        {
+            "group_name": "Adenosine, Nicotinamide, Cytochrome C and Sodium Succinate",
+            "trade_name": "Catrix  Eye Drops"
+        },
+        {
+            "group_name": "Calcium & Vitamin-C effervescent tablet",
+            "trade_name": "Cavic C"
+        },
+        {
+            "group_name": "Calcium, Vitamin-C & Vitamin-D Effervescent Tablet",
+            "trade_name": "Cavic C  Plus"
+        },
+        {
+            "group_name": "Ascorbic Acid (Vitamin-C) BP ",
+            "trade_name": "Ceegram"
+        },
+        {
+            "group_name": "Cefuroxime & Clavulanic Acid Tablet",
+            "trade_name": "Cefaclav"
+        },
+        {
+            "group_name": "Cefotaxime Injection",
+            "trade_name": "Cefotime"
+        },
+        {
+            "group_name": "Ribavirin 200 mg capsule",
+            "trade_name": "Celbarin"
+        },
+        {
+            "group_name": "Celecoxib 100 & 200 mg Capsule",
+            "trade_name": "Celenta"
+        },
+        {
+            "group_name": "Triamcinolone Acetonide BP Nasal Spray",
+            "trade_name": "Cenolon"
+        },
+        {
+            "group_name": "Triamcinolone Acetonide 1 ml Injection.",
+            "trade_name": "Cenolon  Injection"
+        },
+        {
+            "group_name": "Imipenem USP 500 mg & Cilastatin USP 500 mg IV Injection\r\n",
+            "trade_name": "Cispenam"
+        },
+        {
+            "group_name": "Clotrimazole 1% ",
+            "trade_name": "Clarizol"
+        },
+        {
+            "group_name": "Clotrimazole 1%",
+            "trade_name": "Clarizol Ear Drops"
+        },
+        {
+            "group_name": "Clindamycin 150 & 300 mg capsule and 300 mg & 600 mg IV/IM Injection",
+            "trade_name": "Clindacin"
+        },
+        {
+            "group_name": "Clindamycin 2% w/w",
+            "trade_name": "Clindacin Cream"
+        },
+        {
+            "group_name": "Topical Lotion",
+            "trade_name": "Clindacin lotion"
+        },
+        {
+            "group_name": "Clindamycin 1.2% and Tretinoin 0.025% Gel.",
+            "trade_name": "Clindacin Plus Gel"
+        },
+        {
+            "group_name": "Clioquinol BP 10mg and Flumetasone pivalate BP 0.2mg",
+            "trade_name": "Cliomet Ear Drops"
+        },
+        {
+            "group_name": "Cod Liver Oil BP",
+            "trade_name": "Codcap"
+        },
+        {
+            "group_name": "L-Lysine hydrochloride 15% Gel",
+            "trade_name": "Colagel"
+        },
+        {
+            "group_name": "Calcitriol Injection and Capsule",
+            "trade_name": "Colitrol"
+        },
+        {
+            "group_name": "Pioglitazone Hydrochloride & Metformin Hydrochloride",
+            "trade_name": "Compimet"
+        },
+        {
+            "group_name": "Iron Polymaltose Complex",
+            "trade_name": "Compiron"
+        },
+        {
+            "group_name": "Gliclazide",
+            "trade_name": "Consucon"
+        },
+        {
+            "group_name": "Prednisolone tablet and oral solution",
+            "trade_name": "Cortan"
+        },
+        {
+            "group_name": "Prednisolone Acetate USP 1% Sterile eye drops.",
+            "trade_name": "Cortan  Eye Drops"
+        },
+        {
+            "group_name": "Procyclidine Hydrochloride",
+            "trade_name": "Cyclid"
+        },
+        {
+            "group_name": "Dicycloverine Hydrochloride tablet, syrup and injection",
+            "trade_name": "Cyclopan"
+        },
+        {
+            "group_name": "Misoprostol tablet",
+            "trade_name": "Cytomis"
+        },
+        {
+            "group_name": "Ketoconazole 2% shampoo",
+            "trade_name": "Dancel Shampoo"
+        },
+        {
+            "group_name": "Darifenacin extended release tablet",
+            "trade_name": "Darilax ER"
+        },
+        {
+            "group_name": "Deflazacort INN Tablet",
+            "trade_name": "Deflazit"
+        },
+        {
+            "group_name": "Estriol 1 mg Bith Control Pill",
+            "trade_name": "Defogen"
+        },
+        {
+            "group_name": "Dexamethasone BP 0.1% & Chloramphenicol BP 0.5%\r\n",
+            "trade_name": "Dexaguard Eye Drops"
+        },
+        {
+            "group_name": "Dexamethasone 0.1%  & Tobramycin 0.3%",
+            "trade_name": "Dextrobac Sterile Ophthalmic Suspension"
+        },
+        {
+            "group_name": "Tropicamide 1% sterile eye drop. ",
+            "trade_name": "Dilate Eye Drops"
+        },
+        {
+            "group_name": "Tropicamide BP 8 mg and Phenylephrine Hydrochloride BP 50 mg.",
+            "trade_name": "Dilate Plus"
+        },
+        {
+            "group_name": "Diosmin BP 450 mg & Hesperidin BP 50 mg tablet",
+            "trade_name": "Diorin"
+        },
+        {
+            "group_name": "Clonazepam tablet & Drops",
+            "trade_name": "Disopan"
+        },
+        {
+            "group_name": "Dobutamine Hydrochloride USP",
+            "trade_name": "Dobutin"
+        },
+        {
+            "group_name": "Tegaserod tablet",
+            "trade_name": "Doresa"
+        },
+        {
+            "group_name": "Doxepin hydrochloride 5% ",
+            "trade_name": "Doxiderm"
+        },
+        {
+            "group_name": "Zoledronic Acid",
+            "trade_name": "Drometa"
+        },
+        {
+            "group_name": "Drotaverine HCl INN tablet",
+            "trade_name": "Drotapan"
+        },
+        {
+            "group_name": "Duloxetine Hydrochloride tablet",
+            "trade_name": "Duloxen"
+        },
+        {
+            "group_name": "Cefpodoxime+ Clavulanic acid Tablet ",
+            "trade_name": "Duo-5"
+        },
+        {
+            "group_name": "Ebastine BP Tablet and Syrup",
+            "trade_name": "Ebaril"
+        },
+        {
+            "group_name": "Econazole Nitrate cream and tablet.",
+            "trade_name": "Econate"
+        },
+        {
+            "group_name": "Econazole Nitrate and Triamcinolone Acetonide cream",
+            "trade_name": "Econate Plus"
+        },
+        {
+            "group_name": "Frusemide & Spironolactone Tablet",
+            "trade_name": "Edeloss"
+        },
+        {
+            "group_name": "Etodolac BP 300 mg capsule & USP 600 mg extended release tablet",
+            "trade_name": "Edopain"
+        },
+        {
+            "group_name": "Cefdinir Capsule & Dry Suspension",
+            "trade_name": "Efdinir"
+        },
+        {
+            "group_name": "Permethrin",
+            "trade_name": "Elimate Cream"
+        },
+        {
+            "group_name": "Permethrin BP 5% and Crotamiton BP 10%",
+            "trade_name": "Elimate Plus"
+        },
+        {
+            "group_name": "Meclizine Hydrochloride film-coated tablet",
+            "trade_name": "Emenil"
+        },
+        {
+            "group_name": "Meclizine Hydrochloride & Pyridoxine Hydrochloride film-coated tablet",
+            "trade_name": "Emenil Plus"
+        },
+        {
+            "group_name": "Cefixime Trihydrate USP",
+            "trade_name": "Emixef"
+        },
+        {
+            "group_name": "Emtricitabine INN tablet",
+            "trade_name": "Emtifovir"
+        },
+        {
+            "group_name": "Loratadine 10 mg tablet",
+            "trade_name": "Encilor"
+        },
+        {
+            "group_name": "Letrozole BP Tablet",
+            "trade_name": "Endofree"
+        },
+        {
+            "group_name": "Eplerenone 25 mg Tablet",
+            "trade_name": "Epleron"
+        },
+        {
+            "group_name": "Recombinant Human Erythropoietin BP",
+            "trade_name": "Epoetin"
+        },
+        {
+            "group_name": "Recombinant Human Erythropoietin BP",
+            "trade_name": "Epoetin"
+        },
+        {
+            "group_name": "Escitalopram INN 5 & 10 mg tablet",
+            "trade_name": "Esipram"
+        },
+        {
+            "group_name": "Esomeprazole tablet,Capsule and Injection",
+            "trade_name": "Esonix"
+        },
+        {
+            "group_name": "Ketorolac Tromethamine USP",
+            "trade_name": "Etorac"
+        },
+        {
+            "group_name": "Ketorolac Tromethamine",
+            "trade_name": "Etorac Eye Drops"
+        },
+        {
+            "group_name": "Urea BP 10% ",
+            "trade_name": "Eudrate"
+        },
+        {
+            "group_name": "Super antioxidant vitamin plus multimineral tablet",
+            "trade_name": "Evagren"
+        },
+        {
+            "group_name": "Ceftriaxone",
+            "trade_name": "Exephin"
+        },
+        {
+            "group_name": "Betamethasone BP 0.1%\r\n",
+            "trade_name": "Eyebet Eye/Ear/Nasal Drops"
+        },
+        {
+            "group_name": "Ezetimibe Tablet",
+            "trade_name": "Ezetim"
+        },
+        {
+            "group_name": "Febuxostat 40 and 80 mg tablet",
+            "trade_name": "Febustat"
+        },
+        {
+            "group_name": "Trimetazidine Dihydrochloride tablet",
+            "trade_name": "Feelnor"
+        },
+        {
+            "group_name": "Fluphenazine Decanoate BP",
+            "trade_name": "Fenazine"
+        },
+        {
+            "group_name": "Fexofenadine Hydrochloride USP",
+            "trade_name": "Fenofex"
+        },
+        {
+            "group_name": "Iron Sucrose USP Injection",
+            "trade_name": "Ferimax"
+        },
+        {
+            "group_name": "Filgrastim 30 MU\r\n",
+            "trade_name": "Filastin"
+        },
+        {
+            "group_name": "Filgrastim 30 MU\r\n",
+            "trade_name": "Filastin"
+        },
+        {
+            "group_name": "Polyethylene Glycol 400 0.4% & Propylene Glycol 0.3%\r\n",
+            "trade_name": "Filtear Eye Drops"
+        },
+        {
+            "group_name": "Erythromycin Tablets/Suspension",
+            "trade_name": "Firmac"
+        },
+        {
+            "group_name": "Amlodipine plus Atenolol tablet",
+            "trade_name": "Fixocard"
+        },
+        {
+            "group_name": "Film coated Tablet, Suspension Gel & Solution for intravenous infusion",
+            "trade_name": "Flamyd"
+        },
+        {
+            "group_name": "Baclofen BP",
+            "trade_name": "Flexifen"
+        },
+        {
+            "group_name": "Cyclobenzaprine Hydrochloride",
+            "trade_name": "Flexor"
+        },
+        {
+            "group_name": "Trifluoperazine Hydrochloride BP\r\n",
+            "trade_name": "Flurazine"
+        },
+        {
+            "group_name": "Oseltamivir capsule",
+            "trade_name": "Flutavir"
+        },
+        {
+            "group_name": "Fluticasone Propionate BP and Salmeterol Xinafoate BP inhalation powder.",
+            "trade_name": "Flutisal ConviCap"
+        },
+        {
+            "group_name": "Folic Acid BP & Zinc USP tablet",
+            "trade_name": "Folneed"
+        },
+        {
+            "group_name": "Fusidic acid & Hydrocortisone cream",
+            "trade_name": "Fortison"
+        },
+        {
+            "group_name": "Risperidone tablet",
+            "trade_name": "Frenia"
+        },
+        {
+            "group_name": "Gabapentin tablet",
+            "trade_name": "Gabapen"
+        },
+        {
+            "group_name": "Gatifloxacin 400 mg Tablet.\r\n\r\n",
+            "trade_name": "Gatiflox"
+        },
+        {
+            "group_name": "Gatifloxacin 0.5% Sterile Eye Drops",
+            "trade_name": "Gatiflox ES Eye Drops"
+        },
+        {
+            "group_name": "Gatifloxacin 0.3% Sterile eye drops.",
+            "trade_name": "Gatiflox Eye Drops"
+        },
+        {
+            "group_name": "Gestodene 0.075 mg & Ehinylestradiol 0.030 mg Birth Control Pill ",
+            "trade_name": "Gestop 28"
+        },
+        {
+            "group_name": "Haloperidol BP",
+            "trade_name": "Halopid"
+        },
+        {
+            "group_name": "Sofosbuvir tablet",
+            "trade_name": "Hopetavir"
+        },
+        {
+            "group_name": "Glycerol and Liquid Sugar 100 ml Syrup",
+            "trade_name": "Hunycof"
+        },
+        {
+            "group_name": "Midazolam",
+            "trade_name": "Hypnofast"
+        },
+        {
+            "group_name": "Sodium Hyaluronate BP 20 mg/2 ml Intra-articular Injection",
+            "trade_name": "Hyronate"
+        },
+        {
+            "group_name": "Chloramphenicol BP 0.5% ",
+            "trade_name": "I-guard Eye/Ear Drops"
+        },
+        {
+            "group_name": "Meropenem Injection",
+            "trade_name": "I-Penam"
+        },
+        {
+            "group_name": "Indapamide 1.5 mg Tablet",
+            "trade_name": "Idatix"
+        },
+        {
+            "group_name": "Flucloxacillin",
+            "trade_name": "Inclox"
+        },
+        {
+            "group_name": "Indapamide and Perindopril Erbumine",
+            "trade_name": "Indapril"
+        },
+        {
+            "group_name": "Adefovir Dipivoxil 10 mg Tablet",
+            "trade_name": "Infovir"
+        },
+        {
+            "group_name": "Phytomenadione BP",
+            "trade_name": "Inj. K MM"
+        },
+        {
+            "group_name": "Lactulose USP",
+            "trade_name": "Inolac"
+        },
+        {
+            "group_name": "Spironolactone 25 mg Tablet",
+            "trade_name": "Inospiron"
+        },
+        {
+            "group_name": "Vitamin E capsule",
+            "trade_name": "Inovit E"
+        },
+        {
+            "group_name": "Diclofenac Sodium",
+            "trade_name": "Intafenac"
+        },
+        {
+            "group_name": "Diclofenac Sodium 0.1% ",
+            "trade_name": "Intafenac Eye Drops"
+        },
+        {
+            "group_name": "Film coated tablet",
+            "trade_name": "Intaflam"
+        },
+        {
+            "group_name": "Gentamicin Sulfate USP",
+            "trade_name": "Intamycin"
+        },
+        {
+            "group_name": "Hydrocortisone USP 100 mg",
+            "trade_name": "Intasone"
+        },
+        {
+            "group_name": "Eptifibatide INN ",
+            "trade_name": "Integril"
+        },
+        {
+            "group_name": "Tobramycin  0.3% ",
+            "trade_name": "Intobac Eye Drops"
+        },
+        {
+            "group_name": "Calcium Orotate INN 400 mg tablet",
+            "trade_name": "IntraCal"
+        },
+        {
+            "group_name": "Tranexamic acid BP",
+            "trade_name": "Intrax"
+        },
+        {
+            "group_name": "Capsule",
+            "trade_name": "Ipadox"
+        },
+        {
+            "group_name": "Ipratropium Bromide BP",
+            "trade_name": "Ipratop"
+        },
+        {
+            "group_name": "Mebeverine Hydrochloride Tablet & Capsule",
+            "trade_name": "Iriban"
+        },
+        {
+            "group_name": "Ivabradine Hydrochloride",
+            "trade_name": "Ivaprex"
+        },
+        {
+            "group_name": "Glucosamine Tablet",
+            "trade_name": "Joinix"
+        },
+        {
+            "group_name": "Glucosamine and Diacerein tablet",
+            "trade_name": "Joinix D"
+        },
+        {
+            "group_name": "Glucosamine-Chondroitin Tablet",
+            "trade_name": "Joinix Plus"
+        },
+        {
+            "group_name": "Salicylic Acid BP",
+            "trade_name": "Kerasol Cream"
+        },
+        {
+            "group_name": "Ketamine Hydrochloride USP",
+            "trade_name": "Ketaride"
+        },
+        {
+            "group_name": "Ketotifen Fumarate Tablet and Syrup.",
+            "trade_name": "Ketomar"
+        },
+        {
+            "group_name": "Ketotifen 0.025% ",
+            "trade_name": "Ketomar Eye Drops"
+        },
+        {
+            "group_name": "Cefuroxime",
+            "trade_name": "Kilbac"
+        },
+        {
+            "group_name": "Clarithromycin 250 and 500 mg Tablet",
+            "trade_name": "Klarix"
+        },
+        {
+            "group_name": "Colchicine USP 0.5 mg and 0.6 mg tablet",
+            "trade_name": "Kolchin"
+        },
+        {
+            "group_name": "Lacidipine 2 mg & 4 mg Tablet",
+            "trade_name": "Lacidip"
+        },
+        {
+            "group_name": "Docosanol cream",
+            "trade_name": "Lafrost"
+        },
+        {
+            "group_name": "Lamivudine 100 mg Tablet",
+            "trade_name": "Lamivir"
+        },
+        {
+            "group_name": "Lercanidipine Hydrochloride film-coated tablet",
+            "trade_name": "Larcadip"
+        },
+        {
+            "group_name": "Simethicone Drops",
+            "trade_name": "Lefoam"
+        },
+        {
+            "group_name": "Levofloxacin 250, 500 & 750 mg tablets, 100 ml oral solution, 100 ml IV infusion.",
+            "trade_name": "Levoxin"
+        },
+        {
+            "group_name": "Levofloxacin 0.5% eye drops",
+            "trade_name": "Levoxin Eye Drops"
+        },
+        {
+            "group_name": "Levofloxacin 1.5% 5 ml Sterile Eye Drops",
+            "trade_name": "Levoxin TS Eye Drops"
+        },
+        {
+            "group_name": "Linagliptin INN ",
+            "trade_name": "Linatab"
+        },
+        {
+            "group_name": "Linezolid Tablet, Powder for Suspension and IV Infusion",
+            "trade_name": "Linzolid"
+        },
+        {
+            "group_name": "Lithium Carbonate BP 400 mg",
+            "trade_name": "Lithin SR"
+        },
+        {
+            "group_name": "Lomefloxacin 0.3% ",
+            "trade_name": "Lomequin Eye Drop"
+        },
+        {
+            "group_name": "Olopatadine 0.1% & 0.2% Sterile Eye Drops",
+            "trade_name": "Lopadine Eye Drops"
+        },
+        {
+            "group_name": "Olopatadine Hydrochloride INN",
+            "trade_name": "Lopadine Nasal Spray"
+        },
+        {
+            "group_name": "Clopidogrel tablet",
+            "trade_name": "Lopirel"
+        },
+        {
+            "group_name": "Clopidogrel & Aspirin Tablet",
+            "trade_name": "Lopirel Plus"
+        },
+        {
+            "group_name": "Glimepiride Tablet",
+            "trade_name": "Losucon"
+        },
+        {
+            "group_name": "Loteprednol Etabonate 0.5% Sterile eye drops.\r\n",
+            "trade_name": "Lotepro Eye Drops"
+        },
+        {
+            "group_name": "Loteprednol Etabonate 0.5% & Tobramycin 0.3% Sterile eye drops.",
+            "trade_name": "Lotepro Plus"
+        },
+        {
+            "group_name": "Danazol 100 & 200 mg capsule",
+            "trade_name": "Lozana"
+        },
+        {
+            "group_name": "Lorazepam 1 mg tablet",
+            "trade_name": "Lozicum"
+        },
+        {
+            "group_name": "Lubiprostone Capsule",
+            "trade_name": "Lubistone"
+        },
+        {
+            "group_name": "Hypromellose (0.3%)and Carboxymethylcellulose (0.25%) Sterile lubricating Eye Drops",
+            "trade_name": "Lubric Extra Eye Drops"
+        },
+        {
+            "group_name": "Hydroxypropyl Methyl Cellulose 0.5% ",
+            "trade_name": "Lubric Eye Drops"
+        },
+        {
+            "group_name": "Hydroxypropyl Methyl Cellulose  2%",
+            "trade_name": "Lubric Gel"
+        },
+        {
+            "group_name": "Fluticasone Propionate Ointment",
+            "trade_name": "Lutisone"
+        },
+        {
+            "group_name": "Fluticasone Propionate BP",
+            "trade_name": "Lutisone Nasal Spray"
+        },
+        {
+            "group_name": "Levonorgestrel BP 0.150 mg, Ethinylestradiol BP 0.030 mg & Ferrous Fumarate BP 75 mg Tablet",
+            "trade_name": "Lyta 28"
+        },
+        {
+            "group_name": "Magnesium Hydroxide & Liquid Paraffin oral emulsion",
+            "trade_name": "Magfin"
+        },
+        {
+            "group_name": "Calcium Carbonate (Coral source) and Vitamin D3 Tablet ",
+            "trade_name": "MarinCal-D"
+        },
+        {
+            "group_name": "Magaldrate tablet",
+            "trade_name": "Marlox"
+        },
+        {
+            "group_name": "Magaldrate BP and Simethicone USP",
+            "trade_name": "Marlox Plus"
+        },
+        {
+            "group_name": "Sodium Cromoglicate 4%",
+            "trade_name": "Mastguard Eye/Nasal Drops"
+        },
+        {
+            "group_name": "Dapoxetine Tablet",
+            "trade_name": "Maturex"
+        },
+        {
+            "group_name": "Human Insulin (rDNA)",
+            "trade_name": "Maxsulin"
+        },
+        {
+            "group_name": "Human Insulin (rDNA) Vial and Cartridge",
+            "trade_name": "Maxsulin"
+        },
+        {
+            "group_name": "Mebhydrolin 50 mg",
+            "trade_name": "Mebastin"
+        },
+        {
+            "group_name": "Mecobalamin",
+            "trade_name": "Mecolagin"
+        },
+        {
+            "group_name": "Betahistine Dihydrochloride Tablet",
+            "trade_name": "Menaril"
+        },
+        {
+            "group_name": "Dexamethasone 0.1% ",
+            "trade_name": "Metadaxan Eye/Ear Drops"
+        },
+        {
+            "group_name": "Dexamethasone BP Tablet",
+            "trade_name": "Metadaxan Tablet"
+        },
+        {
+            "group_name": "Fluorometholone Acetate & Tetrahydrozoline 5 ml Sterile Eye Drops",
+            "trade_name": "Metalone Plus Sterile Ophthalmic Suspension"
+        },
+        {
+            "group_name": "Fluorometholone Acetate 0.1% Sterile Eye Drops",
+            "trade_name": "Metalone Sterile Ophthalmic Suspension"
+        },
+        {
+            "group_name": "Mifepristone 200 mg tablet",
+            "trade_name": "Mifeston"
+        },
+        {
+            "group_name": "Tolfenamic acid BP 200 mg",
+            "trade_name": "Migrex"
+        },
+        {
+            "group_name": "Pemirolast Potassium 0.1%",
+            "trade_name": "Mirolast Eye Drops"
+        },
+        {
+            "group_name": "Mirtazapine 15 and 30 mg Tablet",
+            "trade_name": "Mitaprex"
+        },
+        {
+            "group_name": "Mometasone Furoate BP inhalation powder.",
+            "trade_name": "Momeson  ConviCap"
+        },
+        {
+            "group_name": "Mometasone Furoate BP 0.1% Cream",
+            "trade_name": "Momeson Cream"
+        },
+        {
+            "group_name": "Mometasone Furoate BP",
+            "trade_name": "Momeson Nasal Spray"
+        },
+        {
+            "group_name": "Montelukast Tablet",
+            "trade_name": "Montair"
+        },
+        {
+            "group_name": "Polyethylene Glycol 3350 and electrolytes Powder for Solution",
+            "trade_name": "Movilax"
+        },
+        {
+            "group_name": "Moxifloxacin Hydrochloride 400 mg Tablet",
+            "trade_name": "Moxquin"
+        },
+        {
+            "group_name": "Moxifloxacin 0.5%",
+            "trade_name": "Moxquin Eye Drops"
+        },
+        {
+            "group_name": "Moxifloxacin 0.5% Sterile Eye Drops",
+            "trade_name": "Moxquin XG Eye Drops"
+        },
+        {
+            "group_name": "Mucolytic Expectorant",
+            "trade_name": "Mucolyt"
+        },
+        {
+            "group_name": "Tolperisone Hydrochloride",
+            "trade_name": "Myolax"
+        },
+        {
+            "group_name": "Tolperisone Hydrochloride & Lidocaine Hydrochloride",
+            "trade_name": "Myolax Plus"
+        },
+        {
+            "group_name": "Dopamine Hydrochloride BP Injection\r\n",
+            "trade_name": "Myomine"
+        },
+        {
+            "group_name": "Nalbuphine Hydrochloride IV/IM Injection",
+            "trade_name": "Nalbun"
+        },
+        {
+            "group_name": "Zinc Oxide 40% w/w",
+            "trade_name": "Napguard"
+        },
+        {
+            "group_name": "Neomycin Sulphate BP & Bacitracin Zinc USP",
+            "trade_name": "Nebazin"
+        },
+        {
+            "group_name": "Nefopam Hydrochloride IV/IM injection and Tablet",
+            "trade_name": "Neforex"
+        },
+        {
+            "group_name": "Desloratadine film-coated tablet/syrup",
+            "trade_name": "Neocilor"
+        },
+        {
+            "group_name": "Ranitidine Hydrochloride BP",
+            "trade_name": "Neofast-S"
+        },
+        {
+            "group_name": "Fluticasone Furoate Nasal Spray",
+            "trade_name": "Neotison"
+        },
+        {
+            "group_name": "Inositol nicotinate tablets",
+            "trade_name": "Nicosit"
+        },
+        {
+            "group_name": "Nitrofurantoin tablet",
+            "trade_name": "Nintoin"
+        },
+        {
+            "group_name": "Fluconazole 50 mg, 150 mg, 200mg capsule & Powder for Suspension",
+            "trade_name": "Nispore"
+        },
+        {
+            "group_name": "Fluconazole 0.3%",
+            "trade_name": "Nispore Eye Drops"
+        },
+        {
+            "group_name": "Nitazoxanide",
+            "trade_name": "Nitazox"
+        },
+        {
+            "group_name": "Metformin Hydrochloride",
+            "trade_name": "Nobesit"
+        },
+        {
+            "group_name": "Leflunomide tablet",
+            "trade_name": "Nodia"
+        },
+        {
+            "group_name": "Fenofibrate Capsule",
+            "trade_name": "Nofiate"
+        },
+        {
+            "group_name": "Repaglinide 0.5,1,2 mg Raditab",
+            "trade_name": "Nomopil"
+        },
+        {
+            "group_name": "Vecuronium bromide BP 10 mg injection",
+            "trade_name": "Nor Q"
+        },
+        {
+            "group_name": "Ephedrine Hydrochloride BP injection",
+            "trade_name": "Nordrine"
+        },
+        {
+            "group_name": "Nortriptyline HCl BP 10 mg and 25 mg Tablet.",
+            "trade_name": "Nortilin"
+        },
+        {
+            "group_name": "Norethisterone 5 mg Tablet",
+            "trade_name": "Noteron"
+        },
+        {
+            "group_name": "Clobetasol Propionate Cram, Ointment and Scalp Application",
+            "trade_name": "Nyclobate"
+        },
+        {
+            "group_name": "Clobetasol Propionate, Neomycin Sulphate & Nystatin Cream",
+            "trade_name": "Nyclobate NN"
+        },
+        {
+            "group_name": "Levocarnitine Tablet & Solution",
+            "trade_name": "Ocarnix"
+        },
+        {
+            "group_name": "Olanzapine",
+            "trade_name": "Olanap"
+        },
+        {
+            "group_name": "Omeprazole",
+            "trade_name": "Omenix"
+        },
+        {
+            "group_name": "Domperidone tablet/dispersible tablet/suspension/paediatric drops",
+            "trade_name": "Omidon"
+        },
+        {
+            "group_name": "Domperidone tablet/dispersible tablet/suspension/paediatric drops",
+            "trade_name": "Omidon"
+        },
+        {
+            "group_name": "Ondansetron Hydrochloride Dihydrate BP",
+            "trade_name": "Onaseron"
+        },
+        {
+            "group_name": "Fentanyl Buccal tablet",
+            "trade_name": "Opifen"
+        },
+        {
+            "group_name": "Fentanyl BP Injection",
+            "trade_name": "Opifen Injection"
+        },
+        {
+            "group_name": "Pegylated Interferon alfa-2a pre-filled syringe 180 microgram and 135 microgram",
+            "trade_name": "Optipeg-A"
+        },
+        {
+            "group_name": "Gemifloxacin film coated tablet",
+            "trade_name": "Orasquin  Tablet"
+        },
+        {
+            "group_name": "Etoricoxib Tablet",
+            "trade_name": "Oricox"
+        },
+        {
+            "group_name": "Antiseptic Mouthwash",
+            "trade_name": "Oroclean"
+        },
+        {
+            "group_name": "Miconazole 2% oral gel",
+            "trade_name": "Oroconazol"
+        },
+        {
+            "group_name": "Losartan Potassium Tablet",
+            "trade_name": "Osartil"
+        },
+        {
+            "group_name": "Losartan Potassium & Hydrochlorothiazide Tablet",
+            "trade_name": "Osartil Plus"
+        },
+        {
+            "group_name": "Colecalciferol injectable and oral solution",
+            "trade_name": "Osteo D"
+        },
+        {
+            "group_name": "Cefaclor Monohydrate Capsule/Dry suspension/Paediatric drops",
+            "trade_name": "Oticlor"
+        },
+        {
+            "group_name": "Clomiphene citrate tablet",
+            "trade_name": "Ovuclon"
+        },
+        {
+            "group_name": "Oxcarbazepine INN",
+            "trade_name": "Oxazep"
+        },
+        {
+            "group_name": "Palonosetron Hydrochloride injection",
+            "trade_name": "Paloxiron"
+        },
+        {
+            "group_name": "Pantoprazole tablet & Injection",
+            "trade_name": "Pantonix"
+        },
+        {
+            "group_name": "Enoxaparin Sodium BP",
+            "trade_name": "Parinox"
+        },
+        {
+            "group_name": "Enoxaparin Sodium BP",
+            "trade_name": "Parinox"
+        },
+        {
+            "group_name": "Roxithromycin tablet/powder for suspension",
+            "trade_name": "Pedilid"
+        },
+        {
+            "group_name": "Pioglitazone tablet",
+            "trade_name": "Piodar"
+        },
+        {
+            "group_name": "Calcipotriol 0.005% Ointment",
+            "trade_name": "Planex"
+        },
+        {
+            "group_name": "Desogestrel 0.075 mg Tablet",
+            "trade_name": "POP-D"
+        },
+        {
+            "group_name": "Imipramine HCl BP 25 mg tablet\r\n",
+            "trade_name": "Pramin"
+        },
+        {
+            "group_name": "Prasugrel Hydrochloride INN tablet",
+            "trade_name": "Prasurel"
+        },
+        {
+            "group_name": "Prenatal Multivitamin & Multimineral Tablet",
+            "trade_name": "Precare"
+        },
+        {
+            "group_name": "Pregabalin Capsule",
+            "trade_name": "Pregaben"
+        },
+        {
+            "group_name": "Carbonyl Iron, Folic Acid & Zinc capsule",
+            "trade_name": "Preneed CI"
+        },
+        {
+            "group_name": "Metoprolol tartrate",
+            "trade_name": "Presonil"
+        },
+        {
+            "group_name": "Cefradine",
+            "trade_name": "Procef"
+        },
+        {
+            "group_name": "Naproxen & Esomeprazole Tablet",
+            "trade_name": "Progesic"
+        },
+        {
+            "group_name": "5% Composite Amino Acid Solution with D-Sorbitol",
+            "trade_name": "Prosol IV"
+        },
+        {
+            "group_name": "Tamsulosin Hydrochloride 0.4 mg Capsule",
+            "trade_name": "Prostacin"
+        },
+        {
+            "group_name": "32 Multivitamin-Multimineral Tablet",
+            "trade_name": "Proviten Gold"
+        },
+        {
+            "group_name": "Multivitamin ( Vitamin B complex, Vitamin A,C,D and E)",
+            "trade_name": "Proviten IV"
+        },
+        {
+            "group_name": "Multivitamins-Multiminerals Syrup",
+            "trade_name": "Proviten JR"
+        },
+        {
+            "group_name": "30 Multivitamin and Multimineral Tablet for Senior Citizen",
+            "trade_name": "Proviten Silver"
+        },
+        {
+            "group_name": "Dexibuprofen 200, 300 & 400 mg tablet and Suspension",
+            "trade_name": "Purifen"
+        },
+        {
+            "group_name": "Levosalbutamol Sulphate INN",
+            "trade_name": "Purisal"
+        },
+        {
+            "group_name": "Levosalbutamol Hydrochloride INN",
+            "trade_name": "Purisal Nebuliser Solution"
+        },
+        {
+            "group_name": "Pyrazone",
+            "trade_name": "Pyrazone"
+        },
+        {
+            "group_name": "Quetiapine Fumarate INN",
+            "trade_name": "Quiet"
+        },
+        {
+            "group_name": "Racecadotril Capsule",
+            "trade_name": "Racetril"
+        },
+        {
+            "group_name": "Ranolazine 500 mg",
+            "trade_name": "Ralozine"
+        },
+        {
+            "group_name": "Ramipril tablet",
+            "trade_name": "Ramoril"
+        },
+        {
+            "group_name": "Ramipril & Hydrochlorothiazide Tablet",
+            "trade_name": "Ramoril Plus"
+        },
+        {
+            "group_name": "Rabeprazole Sodium INN tablet",
+            "trade_name": "Rasonix"
+        },
+        {
+            "group_name": "Hydroxychloroquine Sulphate",
+            "trade_name": "Reconil"
+        },
+        {
+            "group_name": "Memantine Hydrochloride INN tablet",
+            "trade_name": "Remtin"
+        },
+        {
+            "group_name": "Sevelamer Hydrochloride Tablet",
+            "trade_name": "Renophos"
+        },
+        {
+            "group_name": "Glyceryl trinitrate BP 0.4% ointment",
+            "trade_name": "Repane"
+        },
+        {
+            "group_name": "Sertraline",
+            "trade_name": "Repose"
+        },
+        {
+            "group_name": "Paracetamol 325 mg & Tramadol Hydrochloride 37.5 mg",
+            "trade_name": "Resadol"
+        },
+        {
+            "group_name": "Aceclofenac tablet",
+            "trade_name": "Reservix"
+        },
+        {
+            "group_name": "Paracetamol Tablet, Syrup & Paediatric drops",
+            "trade_name": "Reset"
+        },
+        {
+            "group_name": "Paracetamol solution for IV infusion",
+            "trade_name": "Reset IV"
+        },
+        {
+            "group_name": "Paracetamol BP 500 mg & Caffeine BP 65 mg tablet",
+            "trade_name": "Reset Plus"
+        },
+        {
+            "group_name": "Cinnarizine-Dimenhydrinate tablet",
+            "trade_name": "Revert"
+        },
+        {
+            "group_name": "Niacin USP 500 mg Extended Release tablet",
+            "trade_name": "Ridel  ER"
+        },
+        {
+            "group_name": "Rifaximin 200 and 550 mg Tablet",
+            "trade_name": "Rifamax"
+        },
+        {
+            "group_name": "Rosuvastatin 5 & 10 mg Tablet",
+            "trade_name": "Rocovas"
+        },
+        {
+            "group_name": "Rocuronium Bromide INN 50 mg injection.",
+            "trade_name": "Rocuron"
+        },
+        {
+            "group_name": "Ethinylestradiol 0.030 mg & Drospirenone 3 mg  Tablet",
+            "trade_name": "Rosen 28"
+        },
+        {
+            "group_name": "Roflumilast 0.5 mg (500 mcg) Tablet",
+            "trade_name": "Roxair"
+        },
+        {
+            "group_name": "Rupatadine 10 mg Tablet",
+            "trade_name": "Rupex"
+        },
+        {
+            "group_name": "Oxymetazoline Hydrochloride",
+            "trade_name": "Rynex"
+        },
+        {
+            "group_name": "Methyl salicylate & Menthol",
+            "trade_name": "Salinix"
+        },
+        {
+            "group_name": "Methyldopa",
+            "trade_name": "Sardopa"
+        },
+        {
+            "group_name": "Levocetirizine Dihydrochloride film-coated Tablet",
+            "trade_name": "Seasonix"
+        },
+        {
+            "group_name": "Secnidazole INN",
+            "trade_name": "Secnizol DS"
+        },
+        {
+            "group_name": "Ceftazidime IV/IM",
+            "trade_name": "Sidobac"
+        },
+        {
+            "group_name": "Bromazepam USP 3 mg",
+            "trade_name": "Siesta"
+        },
+        {
+            "group_name": "Sildenafil Citrate INN 50 and 100 mg Tablets",
+            "trade_name": "Silagra"
+        },
+        {
+            "group_name": "Aciclovir BP 5%",
+            "trade_name": "Simplovir Cream"
+        },
+        {
+            "group_name": "Sitagliptin Phosphate INN",
+            "trade_name": "Sitagil"
+        },
+        {
+            "group_name": "Sitagliptin Phosphate Monohydrate INN 64.25 mg eq. to Sitagliptin 50mg & Metformin HCl BP 500 mg",
+            "trade_name": "Sitagil M ER"
+        },
+        {
+            "group_name": "Padimate O 8%, Avobenzone 2%, Oxybenzone 3% &Titanium; dioxide 2% ",
+            "trade_name": "Solascren"
+        },
+        {
+            "group_name": "Alverine Citrate BP 60 mg",
+            "trade_name": "Somolax"
+        },
+        {
+            "group_name": "Bupivacaine Hydrochloride USP 0.5% \r\nDextrose USP 8% \r\n",
+            "trade_name": "Spino"
+        },
+        {
+            "group_name": "Cyclosporine",
+            "trade_name": "Sporium"
+        },
+        {
+            "group_name": "Hydroquinone cream",
+            "trade_name": "Spotclen"
+        },
+        {
+            "group_name": "Hydroquinone 4% cream with sunscreens.",
+            "trade_name": "Spotclen Plus"
+        },
+        {
+            "group_name": "Streptokinase 1 500 000 IU Injection.",
+            "trade_name": "STK  Injection"
+        },
+        {
+            "group_name": "Antitussive syrup",
+            "trade_name": "Sudocof"
+        },
+        {
+            "group_name": "Loratadine and Pseudoephedrine Hydrochloride",
+            "trade_name": "Sudolor"
+        },
+        {
+            "group_name": "Pseudoephedrine tablet",
+            "trade_name": "Sudorin"
+        },
+        {
+            "group_name": "Atorvastatin 10 mg and Amlodipine 5 mg",
+            "trade_name": "Syncard"
+        },
+        {
+            "group_name": "Tacrolimus 0.03% & 0.1%",
+            "trade_name": "Tacrolim"
+        },
+        {
+            "group_name": "Tadalafil INN 10 mg Tablets",
+            "trade_name": "Tadalis"
+        },
+        {
+            "group_name": "Tazarotene 0.1% w/w cream.",
+            "trade_name": "Tazoskin"
+        },
+        {
+            "group_name": "Cefetamet Pivoxil Hydrochloride INN",
+            "trade_name": "Tenafet"
+        },
+        {
+            "group_name": "Flupentixol-Melitracen tablet",
+            "trade_name": "Tenaxit"
+        },
+        {
+            "group_name": "Tenoxicam BP 20 mg Tablet.",
+            "trade_name": "Tenopain"
+        },
+        {
+            "group_name": "Terazosin 2 & 5 mg tablet",
+            "trade_name": "Terazon"
+        },
+        {
+            "group_name": "Ticagrelor 90 mg Tablet",
+            "trade_name": "Ticarel"
+        },
+        {
+            "group_name": "Naproxen tablet, suspension & gel",
+            "trade_name": "Ticoflex"
+        },
+        {
+            "group_name": "Tigecycline 50 mg as lyophilized powder for Infusion.",
+            "trade_name": "Tigacil"
+        },
+        {
+            "group_name": "Atorvastatin 10, 20 & 40 mg tablet",
+            "trade_name": "Tiginor"
+        },
+        {
+            "group_name": "Timolol Maleate 0.5% Sterile Eye Drops",
+            "trade_name": "Timopress Eye Drops"
+        },
+        {
+            "group_name": "Tiemonium Methylsulfate",
+            "trade_name": "Timozin"
+        },
+        {
+            "group_name": "Spectinomycin IM Injection",
+            "trade_name": "Tinobac"
+        },
+        {
+            "group_name": "Tolterodine Tartrate INN 2 mg Tablet",
+            "trade_name": "Toltrex"
+        },
+        {
+            "group_name": "Dextromethorphan syrup",
+            "trade_name": "Tomephen"
+        },
+        {
+            "group_name": "Capsaicin Cream",
+            "trade_name": "Topicacin"
+        },
+        {
+            "group_name": "Miconazole Nitrate BP 2% Cream.",
+            "trade_name": "Topicazole"
+        },
+        {
+            "group_name": "Miconazole Nitrate and Hydrocortisone Acetate",
+            "trade_name": "Topicazole Plus"
+        },
+        {
+            "group_name": "Topiramate tablets",
+            "trade_name": "Topirva"
+        },
+        {
+            "group_name": "Travoprost USP 0.004% Sterile eye drops",
+            "trade_name": "Travast"
+        },
+        {
+            "group_name": "Travoprost USP 0.004% and Timolol BP 0.5% Sterile eye drops ",
+            "trade_name": "Travast Plus"
+        },
+        {
+            "group_name": "Mupirocin",
+            "trade_name": "Trego"
+        },
+        {
+            "group_name": "Azithromycin Dihydrate USP",
+            "trade_name": "Tridosil"
+        },
+        {
+            "group_name": "Trihexyphenidyl Hydrochloride USP",
+            "trade_name": "Trihexy"
+        },
+        {
+            "group_name": "Fluocinolone acetonide 0.01%, Hydroquinone 4% and Tretinoin 0.05%",
+            "trade_name": "TRIMELA"
+        },
+        {
+            "group_name": "Trimebutine Maleate INN 100 mg Tablet",
+            "trade_name": "Trimotil"
+        },
+        {
+            "group_name": "Nitroglycerin 2.6 mg Capsule & Tablet\r\n",
+            "trade_name": "Trocer"
+        },
+        {
+            "group_name": "Nitroglycerin 0.4 mg Spray",
+            "trade_name": "Trocer Spray"
+        },
+        {
+            "group_name": "Ledipasvir 90 mg and Sofosbuvir 400 mg tablet",
+            "trade_name": "Twinvir"
+        },
+        {
+            "group_name": "Tibolone tablet",
+            "trade_name": "Ubilon"
+        },
+        {
+            "group_name": "Propofol Injection",
+            "trade_name": "Ufol"
+        },
+        {
+            "group_name": "Halobetasol Propionate 0.05% Cream",
+            "trade_name": "Ulticort"
+        },
+        {
+            "group_name": "Cefepime",
+            "trade_name": "Ultrapime Injection"
+        },
+        {
+            "group_name": "Potassium Citrate & Citric Acid Monohydrate 200 ml Oral Solution",
+            "trade_name": "Urikal"
+        },
+        {
+            "group_name": "Flavoxate Hydrochloride",
+            "trade_name": "Urilax"
+        },
+        {
+            "group_name": "Sodium Valproate tablet and syrup",
+            "trade_name": "Valex"
+        },
+        {
+            "group_name": "Sodium Valproate tablet/syrup",
+            "trade_name": "Valex CR"
+        },
+        {
+            "group_name": "Valacyclovir Hydrochloride Tablet",
+            "trade_name": "Valovir"
+        },
+        {
+            "group_name": "Valsartan tablet",
+            "trade_name": "Valsartil"
+        },
+        {
+            "group_name": "Valsartan & Hydrochlorothiazide tablet\r\n",
+            "trade_name": "Valsartil Plus"
+        },
+        {
+            "group_name": "Vancomycin",
+            "trade_name": "Vanmycin"
+        },
+        {
+            "group_name": "Verapamil hydrochloride",
+            "trade_name": "Veracal"
+        },
+        {
+            "group_name": "Insulin Glargine (rDNA) Injection",
+            "trade_name": "Vibrenta"
+        },
+        {
+            "group_name": "Insulin Glargine (rDNA) Injection",
+            "trade_name": "Vibrenta"
+        },
+        {
+            "group_name": "Vinpocetine 5mg Tablet",
+            "trade_name": "Vinsetine"
+        },
+        {
+            "group_name": "Daclatasvir tablet",
+            "trade_name": "Virodacla"
+        },
+        {
+            "group_name": "Trypan Blue Ophthalmic Solution",
+            "trade_name": "Visi Blue"
+        },
+        {
+            "group_name": "Vitamin B1, B6 & B12",
+            "trade_name": "Vitabion"
+        },
+        {
+            "group_name": "Vitamin A, D, B1, B2, B6, C, E, Nicotinamide and Cod liver oil Syrup",
+            "trade_name": "Vitagrow"
+        },
+        {
+            "group_name": "Warfarin tablet",
+            "trade_name": "Warin"
+        },
+        {
+            "group_name": "Salbutamol Sulphate BP",
+            "trade_name": "Windel"
+        },
+        {
+            "group_name": "Salbutamol Sulphate BP inhalation powder.",
+            "trade_name": "Windel ConviCap"
+        },
+        {
+            "group_name": "Salbutamol/Ipratropium Bromide",
+            "trade_name": "Windel Plus"
+        },
+        {
+            "group_name": "Tramadol Hydrochloride BP capsule and injection",
+            "trade_name": "Winpain"
+        },
+        {
+            "group_name": "Minoxidil topical solution 2%, 5%",
+            "trade_name": "Xenogrow"
+        },
+        {
+            "group_name": "Bromfenac  0.09%",
+            "trade_name": "Xibrofen Eye Drops"
+        },
+        {
+            "group_name": "Cefpodoxime Proxetil Tablet/Suspension/Paediatric Drops/DS Suspension",
+            "trade_name": "Ximeprox"
+        },
+        {
+            "group_name": "Xylometazoline Hydrochloride BP and Sodium Cromoglicate BP",
+            "trade_name": "Xylo Plus"
+        },
+        {
+            "group_name": "Tenofovir Disoproxil Fumarate 300 mg Tablet",
+            "trade_name": "Xynovir"
+        },
+        {
+            "group_name": "Olmesartan Medoxomil 20 & 40 mg Tablet",
+            "trade_name": "Xyotil"
+        },
+        {
+            "group_name": "Olmesartan Medoxomil plus Hydrochlorothiazide",
+            "trade_name": "Xyotil Plus"
+        },
+        {
+            "group_name": "Clozapine BP Tablet",
+            "trade_name": "Zapenia"
+        },
+        {
+            "group_name": "Zinc syrup",
+            "trade_name": "Ziflu"
+        },
+        {
+            "group_name": "Brinzolamide 10 mg Ophthalmic Suspension ",
+            "trade_name": "Zolamid Ophthalmic Suspension"
+        },
+        {
+            "group_name": "Zoledronic acid INN",
+            "trade_name": "Zolenic"
+        },
+        {
+            "group_name": "Alprazolam tablet",
+            "trade_name": "Zolium"
+        },
+        {
+            "group_name": "Zolmitriptan tablet",
+            "trade_name": "Zomitan"
+        },
+        {
+            "group_name": "Eszopiclone tablet",
+            "trade_name": "Zopilone"
+        }
+    ],
+    "website": "http://inceptapharma.com",
+    "medicine_count": 441,
+    "company": "Incepta Pharmaceuticals Ltd."
+}
